@@ -7,3 +7,7 @@ Download build 0.2:
 https://github.com/masato462/Minicraft-Rebuild/releases/download/0.2/minicraft.jar
 
 Build:
+Download Eclipse:
+https://eclipse.org/
+
+<b>a</b>
