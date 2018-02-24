@@ -6,8 +6,8 @@
 Minicraft does not start in the latest Java, so it was rebuilt in the latest Java.
 The source code just changed the About message, nothing changed from the original source code.
 
-<b>Download build 0.2:</b>
-https://github.com/masato462/Minicraft-Rebuild/releases/tag/0.2
+<b>Download Latest Rebuild:</b>
+https://github.com/masato462/Minicraft-Rebuild/releases/latest
 
 <b>Build:</b>
 
@@ -28,8 +28,8 @@ In the execution configuration, set the main class to "com.mojang.ld22.Game" and
 
 <b>Japanese:</b>
 
-<b>ダウンロード 0.2:</b>
-https://github.com/masato462/Minicraft-Rebuild/releases/tag/0.2
+<b>ダウンロード:</b>
+https://github.com/masato462/Minicraft-Rebuild/releases/latest
 
 <b>ビルド:</b>
 https://www51.atwiki.jp/cloneofminecraft/pages/50.html#id_1e644d3e
