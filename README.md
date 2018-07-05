@@ -26,6 +26,19 @@ In folder addition (D), check the src and res folders, apply and close.
 
 In the execution configuration, set the main class to "com.mojang.ld22.Game" and it is completed by execution.
 
+<b>Minicraft Mods Archives:</b>
+It is not perfect. I added some Mod from old WinXP PC.
+Some files are found by the community.
+
+<b>Where is it?</b>
+Each file can be downloaded from here.
+https://github.com/masato462/Minicraft-Rebuild/tree/master/minicraft_archives
+
+All files can be downloaded from here. (.7z archive)
+soon
+
+
+
 <b>Japanese:</b>
 
 <b>ダウンロード:</b>
