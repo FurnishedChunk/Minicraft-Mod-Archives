@@ -37,12 +37,3 @@ https://github.com/masato462/Minicraft-Rebuild/tree/master/minicraft_archives
 All files can be downloaded from here. (.7z archive)
 soon
 
-
-
-<b>Japanese:</b>
-
-<b>ダウンロード:</b>
-https://github.com/masato462/Minicraft-Rebuild/releases/latest
-
-<b>ビルド:</b>
-https://www51.atwiki.jp/cloneofminecraft/pages/50.html#id_1e644d3e
