@@ -14,5 +14,8 @@ https://github.com/ElijahZAwesome/Minicraft3DS
 **Minicraft PSVita Edition**  
 https://github.com/Rinnegatamante/MinicraftVita
 
-**Minicraft DS**  
+**Minicraft DS Edition** -This port is not archived.
+https://github.com/ArthurCose/Minicraft-DS-Edition
+
+**Minicraft DS**  -This port is not archived.
 https://github.com/jameskirkwood/minicraft-ds
