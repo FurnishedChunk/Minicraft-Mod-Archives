@@ -19,3 +19,6 @@ https://github.com/ArthurCose/Minicraft-DS-Edition
 
 **Minicraft DS**  -This port is not archived.
 https://github.com/jameskirkwood/minicraft-ds
+
+**GBA Port** -This port is not archived.
+https://github.com/Vulcalien/minicraft-gba
