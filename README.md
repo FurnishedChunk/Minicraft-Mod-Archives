@@ -34,5 +34,5 @@ Each file can be downloaded from here.
 https://github.com/masato462/Minicraft-Rebuild/tree/master/minicraft_archives  
 
 All files can be downloaded from here. 
-https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/archive/refs/heads/master.zip
+<p>https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/archive/refs/heads/master.zip
 
