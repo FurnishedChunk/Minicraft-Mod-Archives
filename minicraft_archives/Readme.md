@@ -8,7 +8,7 @@ These files are available for download from the developer's place and are not ar
 
 <detail>
 
-<summary>Microcraft</summary>
+### <summary>Microcraft</summary>
 (https://github.com/jdah/microcraft)
   
 ![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png)
@@ -17,7 +17,7 @@ These files are available for download from the developer's place and are not ar
 
 <detail>
 
-<summary>UnityCraft</summary>
+### <summary>UnityCraft</summary>
 (https://github.com/maxkratt/unitycraft/)
 
 </detail>
@@ -25,7 +25,7 @@ These files are available for download from the developer's place and are not ar
 
 <detail>
 
-<summary>Minitek</summary>
+### <summary>Minitek</summary>
 (https://github.com/hollowshiroyuki/minitek)
   
 ![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)
@@ -33,5 +33,45 @@ These files are available for download from the developer's place and are not ar
 <p>
 
 # Unarchived Minicraft Homebrew
+<detail>
+
+### <summary>Minitek</summary>
+(https://github.com/hollowshiroyuki/minitek)
+  
+![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)
+</detail>
+<p>
+<detail>
+
+### <summary>Minicraft for GBA</summary>
+(https://github.com/Vulcalien/minicraft-gba)
+  
+![Minicraft for GBA]()
+</detail>
+<p>
+<detail>
+
+### <summary>gbcraft</summary>
+(https://github.com/itIsBrando/gbcraft)
+  
+![gbcraft](https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png)
+</detail>
+<p>
 
 # Minicraft mods that seem lost to our world
+
+<detail>
+
+### <summary>Multiplayer Mod</summary>
+(https://www.minecraftforum.net/forums/off-topic/general-gaming/451983-work-in-progress-min-i-craft-multiplayer-pre-alpha)
+
+</detail>
+<p>
+
+<detail>
+
+### <summary>Zombie Mod</summary>
+(http://www.minecraftforum.net/forums/off-topic/general-gaming/452019-i-3-zombies-minicraft-mod)
+  
+</detail>
+<p>
