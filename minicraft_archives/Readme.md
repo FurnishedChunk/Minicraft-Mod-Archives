@@ -36,10 +36,10 @@ These files are available for download from the developer's place and are not ar
 # Unarchived Minicraft Homebrew
 <detail>
 
-### <summary>Minitek</summary>
-(https://github.com/hollowshiroyuki/minitek)
+### <summary>Minicraft DS Edition</summary>
+(https://github.com/ArthurCose/Minicraft-DS-Edition/)
   
-![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)
+![MinicraftDSEdition](https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png)
 </detail>
 <p>
 <detail>
