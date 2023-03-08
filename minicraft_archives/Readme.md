@@ -20,6 +20,7 @@ These files are available for download from the developer's place and are not ar
 ### <summary>UnityCraft</summary>
 (https://github.com/maxkratt/unitycraft/)
 
+![UnityCraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/unitycraft.png)
 </detail>
 <p>
 
@@ -46,7 +47,7 @@ These files are available for download from the developer's place and are not ar
 ### <summary>Minicraft for GBA</summary>
 (https://github.com/Vulcalien/minicraft-gba)
   
-![Minicraft for GBA]()
+![Minicraft for GBA](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minicraftforgba.png)
 </detail>
 <p>
 <detail>
