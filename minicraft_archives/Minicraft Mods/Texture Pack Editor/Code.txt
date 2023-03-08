@@ -1,0 +1,11 @@
+      if(input.update.clicked){
+      try {
+            String location = new File(".").getCanonicalPath() + "/icons.png";
+            File file = new File(location);
+            game.screen = new Screen(game.WIDTH, game.HEIGHT, new SpriteSheet(ImageIO.read(file)));
+            game.lightScreen = new Screen(game.WIDTH, game.HEIGHT, new SpriteSheet(ImageIO.read(file)));
+         } catch (IOException e) {
+            e.printStackTrace();
+         }
+      }
+//Just remember to change screen & lightscreen to public instead of private.
