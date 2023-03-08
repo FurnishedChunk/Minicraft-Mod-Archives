@@ -1,6 +1,13 @@
 
 # Mod Archives
 
+Here you will find an archive of Minicraft mods that have been created by the community.
+
+This readme contains mods, remakes, ports, etc. that are not kept in this archive.
+Check out the developer's site or Github for downloads.
+
+There is also a list of mods that seem to have disappeared from this world.
+If you have one, please share it on the Play Minicraft Discord server!
 
 # Unarchived Minicraft remakes
 
