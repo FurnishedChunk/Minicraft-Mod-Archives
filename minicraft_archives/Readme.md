@@ -9,7 +9,7 @@ Check out the developer's site or Github for downloads.
 There is also a list of mods that seem to have disappeared from this world.  
 If you have one, please share it on the Play Minicraft Discord server!  
  
-* [to header1](#Unarchived Minicraft remakes)  
+* [to header1](# Unarchived Minicraft remakes)  
  
 # Unarchived Minicraft remakes
 
