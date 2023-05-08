@@ -8,12 +8,26 @@ Check out the developer's site or Github for downloads.
   
 There is also a list of mods that seem to have disappeared from this world.  
 If you have one, please share it on the Play Minicraft Discord server!  
- 
-* [to header1](# Unarchived Minicraft remakes)  
- 
+
+# Menu  
+* [Unarchived Minicraft Mods]()
+* [Unarchived Minicraft remakes](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-remakes)  
+* [Unarchived Minicraft Homebrews](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-homebrew)
+
+# Unarchived Minicraft Mods  
+
+<detail>
+
+### <summary>minicraft-mp</summary>
+(https://github.com/zielony12/minicraft-mphttps://github.com/jdah/microcraft)
+  
+</detail>
+<p>
+
+<detail>
+
 # Unarchived Minicraft remakes
 
-These files are available for download from the developer's place and are not archived.
 
 <detail>
 
