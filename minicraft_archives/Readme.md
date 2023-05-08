@@ -20,7 +20,7 @@ If you have one, please share it on the Play Minicraft Discord server!
 <detail>
 
 ### <summary>minicraft-mp</summary>
-(https://github.com/zielony12/minicraft-mphttps://github.com/jdah/microcraft)
+(https://github.com/zielony12/minicraft-mp)
   
 </detail>
 <p>
