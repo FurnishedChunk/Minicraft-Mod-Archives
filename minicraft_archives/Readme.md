@@ -10,9 +10,10 @@ There is also a list of mods that seem to have disappeared from this world.
 If you have one, please share it on the Play Minicraft Discord server!  
 
 # Menu  
-* [Unarchived Minicraft Mods]()
+* [Unarchived Minicraft Mods](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-mods)
 * [Unarchived Minicraft remakes](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-remakes)  
 * [Unarchived Minicraft Homebrews](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-homebrew)
+* [Minicraft mods that seem lost to our world](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#minicraft-mods-that-seem-lost-to-our-world)
 
 # Unarchived Minicraft Mods  
 
