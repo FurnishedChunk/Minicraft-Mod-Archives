@@ -2,10 +2,10 @@
 
 # <summary>Alecraft</summary>
   
->-Author 
-**Dejvino** 
-  
-[Website](http://alecraft.dejvino.com/) 
+>-Author<p>
+>**Dejvino** 
+>
+>[Website](http://alecraft.dejvino.com/) 
 </detail>
 <p>
 
