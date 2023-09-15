@@ -2,8 +2,8 @@
 
 # Alecraft 
   
-![alecraft_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft Mods/Alecraft/alecraft_main.png)
-![alecraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft Mods/Alecraft/alecraft.png)
+![alecraft_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives/Minicraft%20Mods/Alecraft/alecraft_main.png)
+![alecraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/alecraft.png)
   
 ## Author 
 - **Dejvino** 
