@@ -1,13 +1,10 @@
-
-#Alecraft
-<p>
--Author<p>
-*Dejvino<p>
-
 <detail>
 
-### <summary>Alecraft</summary>
+# <summary>Alecraft</summary>
 (http://alecraft.dejvino.com/)
+  
+-Author<p>
+*Dejvino  
   
 </detail>
 <p>
