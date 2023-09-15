@@ -1,6 +1,6 @@
 <detail>
 
-# infinitytale / Megacraft
+# Infinitytale / Megacraft
   
 >
   
