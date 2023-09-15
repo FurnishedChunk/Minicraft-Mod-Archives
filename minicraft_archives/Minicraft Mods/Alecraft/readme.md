@@ -1,11 +1,11 @@
 <detail>
 
 # <summary>Alecraft</summary>
-(http://alecraft.dejvino.com/)
   
->-Author<p>
-*Dejvino  
+>-Author 
+**Dejvino** 
   
+[Website](http://alecraft.dejvino.com/) 
 </detail>
 <p>
 
