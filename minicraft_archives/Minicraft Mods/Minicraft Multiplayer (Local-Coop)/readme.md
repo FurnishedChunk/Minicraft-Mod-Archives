@@ -1,18 +1,18 @@
 <detail>
 
-# Alecraft 
+# Minicraft Multiplayer (Local-Coop)  
   
 >
   
 ## Author 
-- **Dejvino** 
+- **Unknown** 
 
 ## Links
-- [Website](http://alecraft.dejvino.com/)  
-- [Source Code](https://github.com/Dejvino/Minicraft)  
+- [Website](https://www.mk2k.net/serendipity/index.php?/archives/31-Minicraft-Multiplayer-Mod-+-Trainer.html)  
+- [Official Download/Source Code](https://www.mk2k.net/serendipity/index.php?/archives/31-Minicraft-Multiplayer-Mod-+-Trainer.html)  
 
-![alecraft_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft_main.png)
-![alecraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft.png)
+![minimplocal_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minimplocal_main.png)
+![minimplocal](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minimplocal.png)
 </detail>
 <p>
 
