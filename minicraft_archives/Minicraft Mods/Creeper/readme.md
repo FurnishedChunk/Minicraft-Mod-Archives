@@ -10,8 +10,8 @@
 ## Links
 - No Links
 
-![Creeper_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Celeixen/screenshot/Celeixen-main.png)
-![Creeper](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Creeper/screenshot/creeper.png)
+![Creeper_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minicraft-main.png)
+![Creeper](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/creeper.png)
 </detail>
 <p>
 

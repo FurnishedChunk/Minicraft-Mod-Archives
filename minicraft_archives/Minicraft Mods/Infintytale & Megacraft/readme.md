@@ -10,8 +10,8 @@
 ## Links
 - NoLinks    
 
-![infinitytale_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Infintytale%20%26%20Megacraft/screenshot/Infinitytale_main.png)
-![infinitytale](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Infintytale%20%26%20Megacraft/screenshot/Infinitytale.png)
+![infinitytale_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/Infinitytale_main.png)
+![infinitytale](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/Infinitytale.png)
 </detail>
 <p>
 

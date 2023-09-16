@@ -10,8 +10,8 @@
 ## Links
 - NoLinks
 
-![alecraft_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Celeixen/screenshot/Celeixen-main.png)
-![alecraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Magic/screenshot/Magic.png)
+![magic_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minicraft-main.png)
+![magic](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/magic.png)
 </detail>
 <p>
 
