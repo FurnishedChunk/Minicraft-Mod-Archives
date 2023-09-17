@@ -1,18 +1,21 @@
 <detail>
 
-# Alecraft 
+# Original Minicraft Plus's Archives 
   
->
-  
+>This is an archive of the original Minicraft Plus.  
+>See the following link for the currently updated/latest version of Minicraft Plus.  
+   
 ## Author 
-- **Dejvino** 
+- Original Development Team  
+- **David.B**  
+- **+DilliyG10**  
 
 ## Links
-- [Website](http://alecraft.dejvino.com/)  
-- [Source Code](https://github.com/Dejvino/Minicraft)  
+> This link is to Minicraft Plus Revived.
+- [Minicraft Plus Revived - Download/Source Code](https://github.com/MinicraftPlus/minicraft-plus-revived)  
 
-![alecraft_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft_main.png)
-![alecraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft.png)
+![miniplus_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft_main.png)
+![miniplus](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Alecraft/screenshot/alecraft.png)
 </detail>
 <p>
 
