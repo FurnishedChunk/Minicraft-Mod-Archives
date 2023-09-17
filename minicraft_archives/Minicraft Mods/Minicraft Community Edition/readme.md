@@ -5,7 +5,8 @@
 >
   
 ## Author 
-- **Unknown** 
+- **Jérémy Anger** 
+- **mutput7** 
 
 ## Links
 - [Official Download/Source Code](https://github.com/mutput7/Minicraft_CE)  
