@@ -1,6 +1,6 @@
 <detail>
 
-# Template 
+# Minicraft Deluxe 
   
 >
   
@@ -8,11 +8,10 @@
 - **Unknown** 
 
 ## Links
-- [Website]()  
-- [Source Code]()  
+- No Links
 
-![alecraft_main]()
-![alecraft]()
+![minicraftdeluxe_main]()
+![minicraftdeluxe]()
 </detail>
 <p>
 
