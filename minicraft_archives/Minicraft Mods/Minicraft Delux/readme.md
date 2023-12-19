@@ -1,11 +1,14 @@
 <detail>
 
-# Minicraft Deluxe 
+# Minicraft Delux 
   
 >
   
 ## Author 
 - **Unknown** 
+
+## Archived Versions 
+- 1.20 
 
 ## Links
 - No Links
