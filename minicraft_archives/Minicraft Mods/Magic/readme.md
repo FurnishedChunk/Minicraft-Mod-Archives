@@ -7,6 +7,10 @@
 ## Author 
 - **Dezlad** 
 
+## Archived Versions 
+- ![Magic](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/raw/master/minicraft_archives/Minicraft%20Mods/Magic/ld22%20-%20magic.jar) 
+- ![Magic - Altenative](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/raw/master/minicraft_archives/Minicraft%20Mods/Magic/magic.jar) 
+
 ## Links
 - NoLinks
 
