@@ -8,7 +8,7 @@
 - **Unknown** 
 
 ## Archived Versions 
-- ![Minicraft Delux - 1.20](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/Minicraft%20Mods/Minicraft%20Delux/minicraft_delux.jar) 
+- ![Minicraft Delux - 1.20](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/raw/master/minicraft_archives/Minicraft%20Mods/Minicraft%20Delux/minicraft_delux.jar) 
 
 ## Links
 - No Links
