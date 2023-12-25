@@ -3,9 +3,9 @@
 # P.Craft 
   
 >Only original P.Craft cartridges are available here. 
-Requires Pico-8. 
+>Requires Pico-8. 
  
-P.Craft Deluxe and P.Craft 2 are available at the following links. 
+>P.Craft Deluxe and P.Craft 2 are available at the following links. 
   
 ## Author 
 - **NuSan** 
