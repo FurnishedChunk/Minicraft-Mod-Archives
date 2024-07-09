@@ -9,7 +9,7 @@
 - **WillBill642** 
 
 ## Archived Versions 
-- ![BetterMiniCraft - v2](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/BetterMiniCraft/BetterMiniCraft%20v2.jar) 
+- ![BetterMiniCraft - v2](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/BetterMinicraft/BetterMiniCraft%20v2.jar) 
 
 ## Links
 - [Official Download/Source Code](http://www.mediafire.com/?i001ptofyf7pvda)    
