@@ -14,8 +14,8 @@
 ## Links
 - [Official Download/Source Code](http://www.mediafire.com/?i001ptofyf7pvda)    
 
-![BetterMiniCraft_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/BetterMiniCraft_main.png)
-![BetterMiniCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/BetterMiniCraft.png)
+![BetterMiniCraft_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/betterminicraft_main.png)
+![BetterMiniCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/betterminicraft.png)
 </detail>
 <p>
 
