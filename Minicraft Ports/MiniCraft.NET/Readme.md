@@ -15,7 +15,7 @@
 ## Links
 - [Source Code](https://github.com/xposure/minicraft.net)  
 
-![mininet_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/mininet_main.png)
-![mininet](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/mininet.png)
+![mininet_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/mininet_main.png)
+![mininet](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/mininet.png)
 </detail>
 <p>

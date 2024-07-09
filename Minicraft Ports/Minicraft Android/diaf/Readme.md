@@ -12,14 +12,14 @@
 - **Ryan** 
 
 ## Archived Versions 
-- ![Diaf](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/raw/master/minicraft_archives/Minicraft%20Android/diaf/com.lols.diaf.apk) 
+- ![Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Android/diaf/com.lols.diaf.apk) 
 
 ## Links
 - [Google Play](https://play.google.com/store/apps/details?id=com.lols.diaf)  
 - [Source Code](https://github.com/radiofrequency/diaf)  
 
-![diaf_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/diaf_main.png)
-![diaf](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/diaf.png)
+![diaf_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/diaf_main.png)
+![diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/diaf.png)
 </detail>
 <p>
 

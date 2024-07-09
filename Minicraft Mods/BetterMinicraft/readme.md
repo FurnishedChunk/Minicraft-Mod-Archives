@@ -3,7 +3,7 @@
 # BetterMiniCraft 
   
 >BetterMinicraft is a mod of minicraft, Whtch was done by willbill642 as a fun project for no reason whatsoever.  
->from In-game About
+from In-game About
   
 ## Author 
 - **WillBill642** 

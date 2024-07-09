@@ -10,10 +10,10 @@ There is also a list of mods that seem to have disappeared from this world.
 If you have one, please share it on the Play Minicraft Discord server!  
 
 # Menu  
-* [Unarchived Minicraft Mods](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-mods)
-* [Unarchived Minicraft remakes](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-remakes)  
-* [Unarchived Minicraft Homebrews](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-homebrew)
-* [Minicraft mods that seem lost to our world](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/tree/master/minicraft_archives#minicraft-mods-that-seem-lost-to-our-world)
+* [Unarchived Minicraft Mods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-mods)
+* [Unarchived Minicraft remakes](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-remakes)  
+* [Unarchived Minicraft Homebrews](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/minicraft_archives#unarchived-minicraft-homebrew)
+* [Minicraft mods that seem lost to our world](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/minicraft_archives#minicraft-mods-that-seem-lost-to-our-world)
 
 # Unarchived Minicraft Mods  
 
@@ -44,7 +44,7 @@ If you have one, please share it on the Play Minicraft Discord server!
 ### <summary>UnityCraft</summary>
 (https://github.com/maxkratt/unitycraft/)
 
-![UnityCraft](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/unitycraft.png)
+![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png)
 </detail>
 <p>
 
@@ -71,7 +71,7 @@ If you have one, please share it on the Play Minicraft Discord server!
 ### <summary>Minicraft for GBA</summary>
 (https://github.com/Vulcalien/minicraft-gba)
   
-![Minicraft for GBA](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/minicraftforgba.png)
+![Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png)
 </detail>
 <p>
 <detail>
