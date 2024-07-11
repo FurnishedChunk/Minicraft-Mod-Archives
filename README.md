@@ -17,9 +17,13 @@ Mods not found in the archive can be downloaded from the following developers' G
 # Unarchived Minicraft Mods  
 
 <detail>
+### <summary>Minicraft + Revived</summary>
+[Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.
+- (https://github.com/MinicraftPlus/minicraft-plus-revived)  
 
-### <summary>minicraft-mp</summary>
-(https://github.com/zielony12/minicraft-mp)
+
+### <summary>Mystic Craft</summary>
+- (https://gc2k4-studio.itch.io/mysticcraft)  
   
 </detail>
 <p>
