@@ -1,14 +1,10 @@
 
 # Mod Archives
 
-Here you will find an archive of Minicraft mods that have been created by the community.  
+This repository contains an archive of community-developed mods that have been released in the last few decades since Minicraft/Minitale was released.  
   
-This readme contains mods, remakes, ports, etc. that are not kept in this archive.  
-Check out the developer's site or Github for downloads.  
-  
-There is also a list of mods that seem to have disappeared from this world.  
-If you have one, please share it on the Play Minicraft Discord server!  
-
+Minicraft/Minitale was published at Ludum Dare 22 in 2011 by Markus Persson, the original author of Minecraft.  
+For more information, see [Wikipedia](https://en.wikipedia.org/wiki/Minicraft).
 
 # Menu  
 * [Unarchived Minicraft Mods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-mods)
