@@ -6,9 +6,6 @@ This repository contains an archive of community-developed mods that have been r
 Minicraft/Minitale was published at Ludum Dare 22 in 2011 by Markus Persson, the original author of Minecraft.  
 For more information, see [Wikipedia](https://en.wikipedia.org/wiki/Minicraft).  
 
-This mod archive does not archive those that are being released by some of the developers themselves.  
-*Mods that have already been added to the archive and are currently released by the developer will be removed from the archive.  
-
 Mods not found in the archive can be downloaded from the following developers' Github or official sites.  
 
 # Menu  
