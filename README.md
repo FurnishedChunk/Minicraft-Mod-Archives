@@ -17,6 +17,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 # Unarchived Minicraft Mods  
 
 <detail>
+
 ### <summary>Minicraft + Revived</summary>
 - (https://github.com/MinicraftPlus/minicraft-plus-revived)  
 
