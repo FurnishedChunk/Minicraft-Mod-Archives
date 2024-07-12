@@ -19,20 +19,13 @@ Mods not found in the archive can be downloaded from the following developers' G
 <details>
 
 ### [Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)
-[Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.  
-- (https://github.com/MinicraftPlus/minicraft-plus-revived)  
+[Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.    
 
+### [Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)  
+  
+### [Minicraft Red](https://github.com/itayfeder/Minicraft-Red)  
 
-### <summary>Minicraft²</summary>
-- (https://github.com/pelletsstarPL/Minicraft-squared)  
-  
-  
-### <summary>Minicraft Red</summary>
-- (https://github.com/itayfeder/Minicraft-Red)  
-  
-
-### <summary>Mystic Craft</summary>
-- (https://gc2k4-studio.itch.io/mysticcraft)  
+### [Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)  
   
 </details>
 <p>
