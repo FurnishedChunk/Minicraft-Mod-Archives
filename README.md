@@ -16,9 +16,8 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 # Unarchived Minicraft Mods  
 
-<detail>
+<detail><summary>Minicraft + Revived</summary>
 
-### <summary>Minicraft + Revived</summary>
 [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.  
 - (https://github.com/MinicraftPlus/minicraft-plus-revived)  
 
