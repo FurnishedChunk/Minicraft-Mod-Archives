@@ -36,7 +36,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <detail>
 
-### <summary>[Microcraft]</summary>(https://github.com/jdah/microcraft)
+### <summary>[Microcraft](https://github.com/jdah/microcraft)</summary>
   
 ![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png)
 </detail>
