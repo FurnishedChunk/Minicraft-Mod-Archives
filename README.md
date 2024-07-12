@@ -18,14 +18,14 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <details>
 
-### [Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)
+### <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary>
 [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.    
 
-### [Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)  
+### <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>  
   
-### [Minicraft Red](https://github.com/itayfeder/Minicraft-Red)  
+### <summary>[Minicraft Red](https://github.com/itayfeder/Minicraft-Red)</summary>  
 
-### [Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)  
+### <summary>[Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)</summary>  
   
 </details>
 <p>
@@ -34,56 +34,30 @@ Mods not found in the archive can be downloaded from the following developers' G
 # Unarchived Minicraft remakes
 
 
-<detail>
+<details>
 
-### <summary>[Microcraft](https://github.com/jdah/microcraft)</summary>
-  
-![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png)
-</detail>
-<p>
+### <summary>[Microcraft](https://github.com/jdah/microcraft)</summary>  
+![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png)  
 
-<detail>
+### <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary>  
+![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png)  
 
-### <summary>UnityCraft</summary>
-(https://github.com/maxkratt/unitycraft/)
-
-![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png)
-</detail>
-<p>
-
-<detail>
-
-### <summary>Minitek</summary>
-(https://github.com/hollowshiroyuki/minitek)
-  
-![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)
-</detail>
-<p>
+### <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)  
+![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)  
+</details>
 
 # Unarchived Minicraft Homebrew
-<detail>
+<details>
 
-### <summary>Minicraft DS Edition</summary>
-(https://github.com/ArthurCose/Minicraft-DS-Edition/)
-  
-![MinicraftDSEdition](https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png)
-</detail>
-<p>
-<detail>
+### <summary>[Minicraft DS Edition](https://github.com/ArthurCose/Minicraft-DS-Edition/)</summary>  
+![MinicraftDSEdition](https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png)   
 
-### <summary>Minicraft for GBA</summary>
-(https://github.com/Vulcalien/minicraft-gba)
-  
-![Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png)
-</detail>
-<p>
-<detail>
+### <summary>[Minicraft for GBA](https://github.com/Vulcalien/minicraft-gba)</summary>  
+![Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png)  
 
-### <summary>gbcraft</summary>
-(https://github.com/itIsBrando/gbcraft)
-  
-![gbcraft](https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png)
-</detail>
+### <summary>[gbcraft](https://github.com/itIsBrando/gbcraft)</summary>  
+![gbcraft](https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png)  
+</details>
 <p>
 
 # Minicraft mods that seem lost to our world
