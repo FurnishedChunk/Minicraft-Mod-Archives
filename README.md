@@ -55,6 +55,9 @@ Mods not found in the archive can be downloaded from the following developers' G
 ### <summary>[Minicraft for GBA](https://github.com/Vulcalien/minicraft-gba)</summary>  
 ![Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png)  
 
+### <summary>[Minicraft PSP](https://github.com/konchunas/minicraft-psp)</summary>  
+![minicraftpsp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftpsp.png)
+
 ### <summary>[gbcraft](https://github.com/itIsBrando/gbcraft)</summary>  
 ![gbcraft](https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png)  
 </details>
