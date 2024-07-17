@@ -18,6 +18,11 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <details>
 
+| a | a |
+| ---- | ---- |
+| ### <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | TD |
+| a | a |
+
 ### <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary>
 [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive.    
 
