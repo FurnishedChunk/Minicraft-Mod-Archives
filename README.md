@@ -40,10 +40,10 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 | Game Name | Description | Screenshot |
 | ---- | ---- | ---- |
-| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  | ![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png) |
-| <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  | ![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png) |
-| <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  | ![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png) |
-|  |  |  |
+| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  | <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%"> |
+| <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  | <img src="ttps://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> |
+| <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  | <img src="https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png" width="50%"> |
+//|  |  | <img src=".png" width="50%"> |
  
 </details>
 
