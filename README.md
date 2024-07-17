@@ -40,8 +40,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 | Game Name | Description | Screenshot |
 | ---- | ---- | ---- |
-| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary>&br()<img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
-| <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%"> | | |
+| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary><br><img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
 | <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  |
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | | |
 | <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  |
