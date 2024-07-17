@@ -38,14 +38,13 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <details>
 
-### <summary>[Microcraft](https://github.com/jdah/microcraft)</summary>  
-![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png)  
-
-### <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary>  
-![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png)  
-
-### <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)  
-![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png)  
+| Game Name | Description | Screenshot |
+| ---- | ---- | ---- |
+| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  | ![microcraft](https://github.com/jdah/microcraft/blob/master/screen.png) |
+| <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  | ![UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png) |
+| <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  | ![minitek](https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png) |
+|  |  |  |
+ 
 </details>
 
 # Unarchived Minicraft Homebrew
