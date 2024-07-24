@@ -17,10 +17,10 @@
 - ![Minicraft: 3DS Homebrew Edition / ELF - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/Original/Minicraft3DSv1.0elf.zip) 
 <!--- ![Minicraft: 3DS Homebrew Edition / Source Code - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/Original/Minicraft3DS-src.zip) --> 
 
-*Multiplayer Update*
-No archived files.  
-You can download them from the official distribution page.  
-See the Links section.  
+*Multiplayer Update*  
+**No archived files.**  
+**You can download them from the official distribution page.**  
+**See the Links section.**  
 
 ## Links
 *Original Release*  
