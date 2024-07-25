@@ -45,8 +45,8 @@
 - ![Github - Download/Source Code](https://github.com/Enovale/Minicraft3DS) 
 - ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-new-minicraft3ds-fork-v1-4.494947/)   
 
-![infinitytale_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale_main.png)
-![infinitytale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale.png)
+<!--![infinitytale_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale_main.png)
+![infinitytale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale.png)-->
 </detail>
 <p>
 
