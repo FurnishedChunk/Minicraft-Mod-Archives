@@ -14,12 +14,12 @@
 However, it has already been archived locally  
 
 ## Links
-- ![Github - Source Code](https://github.com/Rinnegatamante/MinicraftVita) 
+- ![Github - Source Code](https://github.com/Rinnegatamante/MinicraftVita)  
 - ![Download](http://www.rinnegatamante.eu/vitadb/#/info/24)  
 
 
-![minicraft3ds_main](http://www.rinnegatamante.eu/vitadb/screenshots/craft2.jpg)
-![minicraft3ds](http://www.rinnegatamante.eu/vitadb/screenshots/craft1.jpg)
+![minicraft3ds_main](http://www.rinnegatamante.eu/vitadb/screenshots/craft2.jpg)  
+![minicraft3ds](http://www.rinnegatamante.eu/vitadb/screenshots/craft1.jpg)  
 </detail>
 <p>
 
