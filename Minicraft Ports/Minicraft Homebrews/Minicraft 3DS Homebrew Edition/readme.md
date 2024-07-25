@@ -25,12 +25,14 @@
 **No archived files.**  
 **You can download them from the official distribution page.**  
 **See the Links section.**  
+However, it has already been archived locally.
 
 *Multiplayer Fork*
   
 **No archived files.**  
 **You can download them from the official distribution page.**  
 **See the Links section.**  
+However, it has already been archived locally.
 
 ## Links
 *Original Release*  
@@ -45,8 +47,8 @@
 - ![Github - Download/Source Code](https://github.com/Enovale/Minicraft3DS) 
 - ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-new-minicraft3ds-fork-v1-4.494947/)   
 
-<!--![infinitytale_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale_main.png)
-![infinitytale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Infinitytale.png)-->
+![minicraft3ds_main](https://i.imgur.com/NgO86Di.png)
+![minicraft3ds](http://i.imgur.com/G9TSN5I.png)
 </detail>
 <p>
 
