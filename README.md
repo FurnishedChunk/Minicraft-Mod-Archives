@@ -18,7 +18,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <details>
 
-| Mod Name | Description | Screenshot |
+| Mod Name | Description |
 | ---- | ---- | ---- |
 | <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive. | |
 | <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| | |
@@ -38,13 +38,14 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 <details>
 
-| Game Name | Description | Screenshot |
-| ---- | ---- | ---- |
-| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary><br><img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
+| Game Name | Description |
+| ---- | ---- |
+| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  |
+| <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
 | <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | | |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | |
 | <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  |
-| <img src="https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png" width="50%"> | | |
+| <img src="https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png" width="50%"> | |
 //|  |  | <img src=".png" width="50%"> |
  
 </details>
