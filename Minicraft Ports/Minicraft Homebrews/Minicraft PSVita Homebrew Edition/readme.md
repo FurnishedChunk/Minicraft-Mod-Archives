@@ -15,7 +15,7 @@ However, it has already been archived locally
 
 ## Links
 - ![Github - Source Code](https://github.com/Rinnegatamante/MinicraftVita)  
-- ![Download](http://www.rinnegatamante.eu/vitadb/#/info/24)  
+- ![Download](https://gekihen.customprotocol.com/en/project/Minicraft)  
 
 
 ![minicraft3ds_main](http://www.rinnegatamante.eu/vitadb/screenshots/craft2.jpg)  
