@@ -16,7 +16,6 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 # Unarchived Minicraft Mods  
 
-<details>
 
 | Mod Name | Description |
 | ---- | ---- |
@@ -29,7 +28,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 |  |  |
 |  |  |
 
-</details>
+
 <p>
 
 
