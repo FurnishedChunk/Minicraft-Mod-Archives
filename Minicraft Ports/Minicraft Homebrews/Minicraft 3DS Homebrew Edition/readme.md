@@ -37,15 +37,15 @@ However, it has already been archived locally.
 ## Links
 *Original Release*  
 - ![Github - Source Code](https://github.com/DavidSM64/Minicraft3DS) 
-- ![GBATEMP - Release Thread](https://gbatemp.net/threads/minicraft-3ds-homebrew-edition.399295/)   
+- ![GBATEMP - Release Thread](https://gbatemp.net/threads/minicraft-3ds-homebrew-edition.399295)   
 
 *Multiplayer Update*
 - ![Github - Download/Source Code](https://github.com/andre111/Minicraft3DS) 
-- ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-minicraft3ds-the-multiplayer-update.495945/)   
+- ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-minicraft3ds-the-multiplayer-update.495945)   
 
 *Multiplayer Fork*
 - ![Github - Download/Source Code](https://github.com/Enovale/Minicraft3DS) 
-- ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-new-minicraft3ds-fork-v1-4.494947/)   
+- ![GBATEMP - Release Thread](https://gbatemp.net/threads/release-new-minicraft3ds-fork-v1-4.494947)   
 
 ![minicraft3ds_main](https://i.imgur.com/NgO86Di.png)
 ![minicraft3ds](http://i.imgur.com/G9TSN5I.png)
