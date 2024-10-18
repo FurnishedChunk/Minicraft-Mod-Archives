@@ -26,7 +26,7 @@ We have not yet archived any mods that can be downloaded from official or active
 | Mod Name | Description |
 | ---- | ---- |
 | [Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived) | [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive. ||
-| <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft%2B.png" width="50%">|  |
 | <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| |
 | <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
 | <summary>[Minicraft Red](https://github.com/itayfeder/Minicraft-Red)</summary> |  |
@@ -49,7 +49,7 @@ We have not yet archived any mods that can be downloaded from official or active
 | Game Name | Description |
 | ---- | ---- |
 | <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft+.png" width="50%">|  |
+| <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
 | <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  |
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | |
 | <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  |
