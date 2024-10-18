@@ -25,7 +25,7 @@ We have not yet archived any mods that can be downloaded from official or active
 
 | Mod Name | Description |
 | ---- | ---- |
-| <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus) for the Minicraft +(old version) archive. ||
+| <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20Plus/readme.md) for the Minicraft +(old version) archive. ||
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft%2B.png" width="50%">|  |
 | <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| |
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Minicraft².png" width="50%">|  |
