@@ -9,9 +9,10 @@ Mods not found in the archive can be downloaded from the following developers' G
 # Menu  
 
 # Archived Mod List:
-Look for it in the repository above for now.
+Click [Here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/readme.md) to view the archived mods.  
 
-## Unarchived Mod List: 
+
+# Unarchived Mod List: 
 These mods are not in this archive but have been archived locally.  
 We have not yet archived any mods that can be downloaded from official or active development.  
 
@@ -25,8 +26,8 @@ We have not yet archived any mods that can be downloaded from official or active
 
 | Mod Name | Description |
 | ---- | ---- |
-| <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20Plus/readme.md) for the Minicraft +(old version) archive. ||
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft%2B.png" width="50%">|  |
+| <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft%2B.png" width="50%">| [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20Plus/readme.md) for the Minicraft +(old version) archive.  |
 | <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| |
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Minicraft².png" width="50%">|  |
 | <summary>[Minicraft Red](https://github.com/itayfeder/Minicraft-Red)</summary> |  |
@@ -54,7 +55,6 @@ We have not yet archived any mods that can be downloaded from official or active
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | |
 | <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  |
 | <img src="https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png" width="50%"> | |
-//|  |  | <img src=".png" width="50%"> |
 
 
 # Unarchived Minicraft Homebrew

@@ -1,22 +1,32 @@
-<detail>
 
-# Template 
-  
->
-  
-## Author 
-- **Unknown** 
+For mods not archived in this mod archive, please check [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/README.md).  
 
-## Archived Versions 
-- ![]() 
+Currently, this mod list is incomplete.  
+If you are looking for a mod that is not on the list, please check the repository [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/).  
 
-## Links
-- [Website]()  
-- [Source Code]()  
+##List of archived mods
 
-![_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/_main.png)
-![](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/.png)
-</detail>
-<p>
-
-<detail>
+| Mod Name | Description |
+| ---- | ---- |
+| <summary>[Alecraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/readme.md)</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
+| <summary>[]()</summary> |  |
