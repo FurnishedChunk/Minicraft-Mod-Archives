@@ -33,10 +33,10 @@ We have not yet archived any mods that can be downloaded from official or active
 | <img src="" width="50%">|  |
 | <summary>[Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)</summary> |  | 
 | <img src="" width="50%">|  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| <summary>[AirCraft](https://github.com/TheBigEye/Aircraft)</summary> |  | 
+| <img src="" width="50%">|  |
+| <summary>[CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft)</summary> |  | 
+| <img src="" width="50%">|  |
 
 
 <p>
@@ -59,20 +59,17 @@ We have not yet archived any mods that can be downloaded from official or active
 
 # Unarchived Minicraft Homebrew
 
+| Game Name | Description |
+| ---- | ---- |
+| <summary>[Minicraft DS Edition](https://github.com/ArthurCose/Minicraft-DS-Edition/)</summary> |  | 
+| <img src="https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png" width="50%">|  |
+| <summary>[Minicraft for GBA](https://github.com/Vulcalien/minicraft-gba)</summary> |  | 
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png" width="50%">|  |
+| <summary><summary>[Minicraft PSP](https://github.com/konchunas/minicraft-psp)</summary> |  | 
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftpsp.png" width="50%">|  |
+| <summary>[gbcraft](https://github.com/itIsBrando/gbcraft)</summary> |  | 
+| <img src="https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png" width="50%">|  |
 
-### <summary>[Minicraft DS Edition](https://github.com/ArthurCose/Minicraft-DS-Edition/)</summary>  
-![MinicraftDSEdition](https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png)   
-
-### <summary>[Minicraft for GBA](https://github.com/Vulcalien/minicraft-gba)</summary>  
-![Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png)  
-
-### <summary>[Minicraft PSP](https://github.com/konchunas/minicraft-psp)</summary>  
-![minicraftpsp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftpsp.png)
-
-### <summary>[gbcraft](https://github.com/itIsBrando/gbcraft)</summary>  
-![gbcraft](https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png)  
-</details>
-<p>
 
 # Minicraft mods that seem lost to our world
 
