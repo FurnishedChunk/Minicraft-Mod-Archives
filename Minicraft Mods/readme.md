@@ -4,7 +4,7 @@ For mods not archived in this mod archive, please check [here](https://github.co
 Currently, this mod list is incomplete.  
 If you are looking for a mod that is not on the list, please check the repository [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/).  
 
-##List of archived mods
+## List of archived mods  
 
 | Mod Name | Description |
 | ---- | ---- |
@@ -13,8 +13,8 @@ If you are looking for a mod that is not on the list, please check the repositor
 | <summary>[Celeixen](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Celeixen)</summary> |  |
 | <summary>[Creeper](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Creeper)</summary> |  |
 | <summary>[DiyCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/DiyCraft)</summary> | *This mod is not archived. Reason: Because it uses a vulnerable version of Log4J. |
-| <summary>[]()</summary> |  |
-| <summary>[]()</summary> |  |
+| <summary>[Infinitytale/Megacraft]()</summary> |  |
+| <summary>[Magic](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Magic)</summary> |  |
 | <summary>[]()</summary> |  |
 | <summary>[]()</summary> |  |
 | <summary>[]()</summary> |  |
