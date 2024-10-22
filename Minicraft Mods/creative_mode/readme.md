@@ -1,6 +1,6 @@
 <detail>
 
-# Template 
+# Creative Mode  
   
 >
   

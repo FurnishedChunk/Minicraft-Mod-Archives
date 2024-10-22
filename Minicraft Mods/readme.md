@@ -28,6 +28,9 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
 | [PirateGarden](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/PirateGarden/readme.md) |  |
 | [Texture Pack Editor](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Texture%20Pack%20Editor/readme.md) |  |
+| [Creative Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/creative_mode/readme.md) |  |
+| [God Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/godmode/readme.md) |  |
+| [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
 | [](/readme.md) |  |
 | [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
 | [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only |
