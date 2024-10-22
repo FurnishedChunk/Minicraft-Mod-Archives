@@ -31,16 +31,38 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Creative Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/creative_mode/readme.md) |  |
 | [God Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/godmode/readme.md) |  |
 | [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
-| [](/readme.md) |  |
-| [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/ld22%20-%20resizable.jar) |  |
-| [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
+| [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/ld22%20-%20resizable.jar) |  |
+| [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
+| [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Mini.World.jar) | |
+| [MinicraftFMX](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MiniCraftFMX.zip) | |
+| [MinicraftMO](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MiniCraftMO.jar) | |
+| [MiniCraftX](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MiniCraft_X.jar) | |
+| [MiniLoader](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MiniLoader.zip) | |
+| [Minicraft Sound Mod](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20-%20Minecraft%20sound%20mod.jar) | |
+| [Minicraft Sound Mod 2](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20-%20Minecraft%20sound%20mod2.jar) | |
+| [Minicraft New Sound Mod](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20-%20Minecraft%20sound%20new%20mod.jar) | |
+| [Minicraft Ultimate](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Minicraft-Ultimate.tar.gz) | |
+| [Minicraft Frost Giants](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MinicraftFrostGiants.jar) | |
+| [MinicraftTR](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MinicraftTR.zip) | |
+| [Minicraft Extended](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Minicraft_extended_by_GDavid.jar) | |
+| [MiniFarm](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Minifarm.jar) | |
+| [Minicraft Cheap Stuff](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/minicraft%20Cheap%20stuff%20mod.7z) | |
+| [Minicraft Fly](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraft-fly.jar) | |
+| [Minicraft Rebuild](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraft_rebuild.jar) | |
+| [Minicraft Cursed Inv.](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftci.jar) | |
+| [Minicraft Mod](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftmod.jar) | |
+| [Minicraft R](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftr1.3.jar) | |
+| [MiniMods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minimods_v1.0.0.jar) | |
+| [Minicraft Mob Overload](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/moboverload.jar) | |
+| [Respawn](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/respawn.jar) | |
+| [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/saveandload.jar) | |
+| [Shroomycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/shroomycraft.jar) |　Texture change only　|
 | [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only |
-| [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Mini.World.jar) | |
-| [MinicraftFMX](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/MiniCraftFMX.zip) | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
+| [qbitcraft](https://github.com/qbituniverse/qbitcraft) | It is currently not archived as it can be downloaded from the official |
+| [Aircraft](https://github.com/TheBigEye/Aircraft) | It is currently not archived as it can be downloaded from the official |
+| [CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft) | It is currently not archived as it can be downloaded from the official |
+| [Minicraft Red](https://github.com/itayfeder/Minicraft-Red) | It is currently not archived as it can be downloaded from the official |
+| [Minicraft²(Squared)](https://github.com/pelletsstarPL/Minicraft-squared) | It is currently not archived as it can be downloaded from the official |
+| []() | It is currently not archived as it can be downloaded from the official |
+<!--| []() | |-->
+<!-- | [](/readme.md) |  | -->
