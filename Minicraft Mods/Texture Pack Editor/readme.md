@@ -9,13 +9,11 @@ This allows texture making a lot easier because you can just click off-screen, e
 - **David** 
 
 ## Archived Versions 
-- ![Download]() 
+- ![Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Texture%20Pack%20Editor/MinicraftTPEdit.zip) 
 
 ## Links
 No Links
 
-![_main](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/_main.png)
-![](https://github.com/masato462/Minicraft-Rebuild-and-Mod-Archives/blob/master/minicraft_archives/readme_shot/.png)
 </detail>
 <p>
 
