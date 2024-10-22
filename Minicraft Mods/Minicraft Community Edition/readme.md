@@ -9,7 +9,7 @@
 - **mutput7** 
 
 ## Archived Versions 
-- ![Minicraft Community Edition - Latest](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Community%20Edition/minicraftce.jar) 
+- ![Minicraft Community Edition - Latest](https://github.com/mutput7/Minicraft_CE) 
 - ![Minicraft Community Edition - Old](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Community%20Edition/ld22_CE.jar) 
 
 ## Links

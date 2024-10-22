@@ -9,24 +9,24 @@ If you are looking for a mod that is not on the list, please check the repositor
 | Mod Name | Description |
 | ---- | ---- |
 | [Alecraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/readme.md) |  |
-| <summary>[BetterMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/BetterMinicraft/readme.md)</summary> |  |
-| <summary>[Celeixen](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Celeixen/readme.md)</summary> |  |
-| <summary>[Creeper](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Creeper/readme.md)</summary> |  |
-| <summary>[DiyCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/DiyCraft/readme.md)</summary> | *This mod is not archived. Reason: Because it uses a vulnerable version of Log4J. |
-| <summary>[Infinitytale/Megacraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Infinitytale%20%26%20Megacraft/readme.md)</summary> |  |
-| <summary>[Magic](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Magic/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
-| <summary>[](/readme.md)</summary> |  |
+| [BetterMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/BetterMinicraft/readme.md) |  |
+| [Celeixen](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Celeixen/readme.md) |  |
+| [Creeper](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Creeper/readme.md) |  |
+| [DiyCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/DiyCraft/readme.md) | *This mod is not archived. Reason: Because it uses a vulnerable version of Log4J. |
+| [Infinitytale/Megacraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Infinitytale%20%26%20Megacraft/readme.md) |  |
+| [Magic](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Magic/readme.md) |  |
+| [MiniIsles](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/MiniIsles/readme.md) |  |
+| [Minicommands](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicommands/readme.md) |  |
+| [Minicraft Community Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Community%20Edition/readme.md) |  |
+| [Minicraft Delux](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Delux/readme.md) |  |
+| [Minicraft Multiplayer (Local-Coop)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |

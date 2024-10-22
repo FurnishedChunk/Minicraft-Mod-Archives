@@ -2,10 +2,10 @@
 
 # Minicraft Delux 
   
->
+>It is Extended by Samuel Warder
   
 ## Author 
-- **Sammakko** 
+- **Samuel Warder** 
 
 ## Archived Versions 
 - ![Minicraft Delux - 1.20](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Delux/minicraft_delux.jar) 
