@@ -1,5 +1,5 @@
 
-For mods not archived in this mod archive, please check [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/README.md).  
+For mods not archived in this mod archive, please check [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/README.md#unarchived-mod-list).  
 
 Currently, this mod list is incomplete.  
 If you are looking for a mod that is not on the list, please check the repository [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/).  
