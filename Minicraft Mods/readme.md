@@ -20,13 +20,13 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Minicraft Community Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Community%20Edition/readme.md) |  |
 | [Minicraft Delux](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Delux/readme.md) |  |
 | [Minicraft Multiplayer (Local-Coop)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
-| [](/readme.md) |  |
+| [Minicraft Plus](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Plus/readme.md) |  |
+| [Minicraft Textures](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft%20Textures%20Prototype/readme.md) |  |
+| [Minicrate](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicrate/readme.md) |  |
+| [Miniloader(Texture)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Miniloader(texture)/readme.md) |  |
+| [Minitextures](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minitextures/readme.md) |  |
+| [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
+| [PirateGarden](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/PirateGarden/readme.md) |  |
+| [Texture Pack Editor](/readme.md) |  |
 | [](/readme.md) |  |
 | [](/readme.md) |  |
