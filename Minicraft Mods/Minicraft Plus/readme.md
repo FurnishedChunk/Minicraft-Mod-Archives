@@ -25,7 +25,8 @@
 
 
 ## Links
-> This link is to Minicraft Plus Revived.
+The following link is to Minicraft Plus Revived, which is still being updated.  
+
 - [Minicraft Plus Revived - Download/Source Code](https://github.com/MinicraftPlus/minicraft-plus-revived)  
 
 ![miniplus_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/miniplus_main.png)
