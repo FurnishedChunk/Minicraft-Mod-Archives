@@ -32,5 +32,15 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [God Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/godmode/readme.md) |  |
 | [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
 | [](/readme.md) |  |
+| [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/ld22%20-%20resizable.jar) |  |
 | [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
 | [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only |
+| [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Mini.World.jar) | |
+| [MinicraftFMX](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/MiniCraftFMX.zip) | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
