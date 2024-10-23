@@ -4,9 +4,23 @@ For homebrew/port not archived in this mod archive, please check [here](https://
 Currently, this mod list is incomplete.  
 If you are looking for a mod that is not on the list, please check the repository [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/).  
 
-## List of archived port/homebrews  
+## List of archived Android ports
+| Port Name | Description |
+| ---- | ---- |
+| [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/readme.md) |  |
+| [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/readme.md) |  |
+| [](/readme.md) |  |
+| [](/readme.md) |  |
 
-| Mod Name | Description |
+## List of archived ports
+| Port Name | Description |
+| ---- | ---- |
+| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/readme.md) |  |
+| [](/readme.md) |  |
+
+
+## List of archived Homebrews
+| Homebrew Name | Description |
 | ---- | ---- |
 | [Minicraft 3DS Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/readme.md) |  |
 | [Minicraft Vita Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSVita%20Homebrew%20Edition/readme.md) |  |
