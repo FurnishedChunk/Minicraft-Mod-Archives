@@ -15,8 +15,8 @@
 ## Links
  No Links 
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/readme_shot/minitale_main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/readme_shot/minitale.png)
+![minitale_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/readme_shot/minitale_main.png)
+![minitale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/readme_shot/minitale.png)
 </detail>
 <p>
 
