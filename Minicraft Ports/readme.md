@@ -8,14 +8,14 @@ If you are looking for a mod that is not on the list, please check the repositor
 | Port Name | Description |
 | ---- | ---- |
 | [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/Readme.md) |  |
-| [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/readme.md) |  |
+| [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/Readme.md) |  |
 | [](/readme.md) |  |
 | [](/readme.md) |  |
 
 ## List of archived ports
 | Port Name | Description |
 | ---- | ---- |
-| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/readme.md) |  |
+| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) |  |
 | [](/readme.md) |  |
 
 
