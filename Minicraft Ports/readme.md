@@ -7,7 +7,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 ## List of archived Android ports
 | Port Name | Description |
 | ---- | ---- |
-| [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/readme.md) |  |
+| [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/Readme.md) |  |
 | [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/readme.md) |  |
 | [](/readme.md) |  |
 | [](/readme.md) |  |
