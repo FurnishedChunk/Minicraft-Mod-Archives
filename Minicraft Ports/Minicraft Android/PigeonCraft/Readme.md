@@ -42,8 +42,8 @@
 ## Links
 - [Google Play](https://play.google.com/store/apps/details?id=org.pigeoncraft.pigeoncraft)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/pigeon_main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/pigeon.png)
+![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Pigeon_main.png)
+![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Pigeon.png)
 </detail>
 <p>
 
