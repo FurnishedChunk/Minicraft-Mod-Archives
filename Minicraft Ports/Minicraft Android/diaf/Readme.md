@@ -12,7 +12,7 @@
 - **Ryan** 
 
 ## Archived Versions 
-- ![Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Android/diaf/com.lols.diaf.apk) 
+- ![Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Android/diaf/com.lols.diaf.apk) 
 
 ## Links
 - [Google Play](https://play.google.com/store/apps/details?id=com.lols.diaf)  
