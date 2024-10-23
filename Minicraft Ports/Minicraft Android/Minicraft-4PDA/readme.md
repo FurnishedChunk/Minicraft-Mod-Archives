@@ -20,7 +20,7 @@ It was released in 4PDA and there are custom versions such as removing ads.
 - [Website](https://4pda.to/forum/index.php?showtopic=299738&st=20)  
 
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/4pda_main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/4pda.png)
+![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/4pda.jpg)
 </detail>
 <p>
 
