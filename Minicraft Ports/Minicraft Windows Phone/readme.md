@@ -13,7 +13,7 @@
 ## Links
 - NoLinks
 
->Screenshots are taken using [WPR-fork](https://github.com/mediaexplorer74/WPR).
+>Screenshots are taken using [WPR-fork](https://github.com/mediaexplorer74/WPR).  
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/miniwp_main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/miniwp.png)
 </detail>
