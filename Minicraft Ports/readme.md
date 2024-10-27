@@ -21,7 +21,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) |  |
 | [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port |
 | [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) |  |
-
+| [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) |  |
 
 ## List of archived Homebrews
 | Homebrew Name | Description |
