@@ -16,7 +16,7 @@ However, it has already been archived locally.
 ## Links 
 - [Download/Source Code](https://github.com/oscarcs/hxMinicraft)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraft_main.png)
+![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraft-main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraft.png)
 </detail>
 <p>
