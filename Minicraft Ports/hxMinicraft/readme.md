@@ -5,7 +5,7 @@
 >Haxe port of Notch's LD22 game.
   
 ## Author 
-- **Oscar Sims** 
+**Oscar Sims** 
 
 ## Archived Versions 
 **No archived files.**  
