@@ -30,7 +30,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Minicraft Vita Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSVita%20Homebrew%20Edition/readme.md) |  |
 | [Minicraft DS Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft-DS/readme.md) | It is currently not archived as it can be downloaded from the official |
 | [Minicraft PSP](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSP/readme.md) |  |
-| [Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20for%20PSP/readme.md) |  |
+| [Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20for%20GBA/readme.md) |  |
 | [gbcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/gbcraft/readme.md) |  |
 <!--| []() | |-->
 <!-- | [](/readme.md) |  | -->
