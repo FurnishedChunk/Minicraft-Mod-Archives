@@ -11,10 +11,10 @@ Mods not found in the archive can be downloaded from the following developers' G
 **Click [Here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/readme.md) to view the archived mods.**  
 
 # Archived Minicraft Port List:
-**Click [Here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md) to view the archived mods.**  
+**Click [Here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md) to view the archived ports.**  
 
 # Archived Minicraft Remake List:
-
+**Click [Here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Remakes/readme.md) to view the archived remakes.**  
 
 # Unarchived Mod List: 
 These mods are not in this archive but have been archived locally.  
