@@ -11,8 +11,10 @@
 - **Okaeri Studio** 
 
 ## Archived Versions 
-- ![Tinicraft - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Remakes/Tinicraft/tinicraft-win64.zip) 
-- ![Tinicraft - 1.0 Android](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Remakes/Tinicraft/Tinicraft_comokaeristudiotinicraft_10.apk) 
+- ![Tinicraft - 1.0 / Windows](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Remakes/Tinicraft/tinicraft-win64.zip) 
+- ![Tinicraft - 1.0 / Android](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Remakes/Tinicraft/Tinicraft_comokaeristudiotinicraft_10.apk) 
+- Tinicraft - 1.0 / Linux - Missing!
+- Tinicraft - 1.0 / Mac - Missing!
 
 **An “Unofficial Android Version” with ads removed and visual changes is here.**
 - ![Tinicraft - Android Ads Removed](https://github.com/ZeroAlvein/Tinicraft-Minicraft-for-Android)  
