@@ -5,7 +5,7 @@
 >Playstation Portable port of Notch's Minicraft
   
 ## Author 
-- **Unknown** 
+- **konchunas** 
 
 ## Archived Versions 
 **No archived files.**  

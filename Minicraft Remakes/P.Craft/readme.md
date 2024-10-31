@@ -11,7 +11,9 @@
 - **NuSan** 
 
 ## Archived Versions 
-- ![]() 
+**No archived files.**  
+**You can download them from the official distribution page.**  
+**See the Links section.** 
 
 ## Links
 - [Website](https://nusan.itch.io/pcraft) 

@@ -5,7 +5,7 @@
 >Minicraft ported to the GBA 
   
 ## Author 
-**Vulcalien** 
+- **Vulcalien** 
 
 ## Archived Versions 
 **No archived files.**  
