@@ -16,8 +16,8 @@
 - [Website](https://maxkratt.github.io/unitycraft/)  
 - [Source Code](https://github.com/maxkratt/unitycraft)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/_main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/.png)
+![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/unitycraft_main.png)
+![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/unitycraft.png)
 </detail>
 <p>
 

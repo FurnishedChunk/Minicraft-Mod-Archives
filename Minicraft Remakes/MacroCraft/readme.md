@@ -15,8 +15,8 @@
 ## Links
 - [Download/Source Code](https://github.com/jdah/microcraft)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/_main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/.png)
+![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/macro_main.png)
+![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/macro.png)
 </detail>
 <p>
 
