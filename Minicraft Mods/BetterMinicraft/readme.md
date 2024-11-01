@@ -1,4 +1,3 @@
-<detail>
 
 # BetterMiniCraft 
   
@@ -15,7 +14,4 @@
 
 ![BetterMiniCraft_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Betterminicraft_main.png)
 ![BetterMiniCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/betterminicraft.png)
-</detail>
 <p>
-
-<detail>
