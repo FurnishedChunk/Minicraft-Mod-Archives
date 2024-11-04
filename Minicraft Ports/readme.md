@@ -12,7 +12,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Minitale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/MiniTale/readme.md) |  |
 | [Minicraft Android(4PDA)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-4PDA/readme.md) |  |
 | [Minicraft Android(Shawntan)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-Shawntan-Port/readme.md) |  |
-| [](/readme.md) |  |
+| [Minicraft Android(Miserlou)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-Miserlou-Port/readme.md) |  |
 | [](/readme.md) |  |
 
 ## List of archived ports
@@ -26,11 +26,11 @@ If you are looking for a mod that is not on the list, please check the repositor
 ## List of archived Homebrews
 | Homebrew Name | Description |
 | ---- | ---- |
-| [Minicraft 3DS Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/readme.md) |  |
-| [Minicraft Vita Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSVita%20Homebrew%20Edition/readme.md) |  |
+| [Minicraft 3DS Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/readme.md) | It is currently not archived as it can be downloaded from the official |
+| [Minicraft Vita Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSVita%20Homebrew%20Edition/readme.md) | It is currently not archived as it can be downloaded from the official|
 | [Minicraft DS Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft-DS/readme.md) | It is currently not archived as it can be downloaded from the official |
-| [Minicraft PSP](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSP/readme.md) |  |
-| [Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20for%20GBA/readme.md) |  |
-| [gbcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/gbcraft/readme.md) |  |
+| [Minicraft PSP](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20PSP/readme.md) | It is currently not archived as it can be downloaded from the official |
+| [Minicraft for GBA](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%20for%20GBA/readme.md) | It is currently not archived as it can be downloaded from the official |
+| [gbcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/gbcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
 <!--| []() | |-->
 <!-- | [](/readme.md) |  | -->
