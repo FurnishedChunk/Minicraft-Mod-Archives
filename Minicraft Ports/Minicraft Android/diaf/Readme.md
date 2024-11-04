@@ -18,6 +18,7 @@ It does not work with the currently supported Android 12 / API 31 or later, but 
 - ![Diaf - Modified Apk (for Android 12 / API 31+)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Ports/Minicraft%20Android/diaf/com.lols.diaf-aligned-debugSigned.apk)  
 [VirusTotal](https://www.virustotal.com/gui/file/be39f848e2c6219ff06849e228c1348392d422f63f3ef1907bb8ec83906f119d?nocache=1)  
 **Malware flag is attached due to modified Apk and debug signature.**  
+**[Advanced ApkTool](https://xdaforums.com/t/tool-advanced-apktool-v4-2-0-windows-10-02-2016.2639400/) was used to decompile and compile the APK.**
 **Signatures were used [Uber apk signer](https://github.com/patrickfav/uber-apk-signer).**  
 
 ## Links
