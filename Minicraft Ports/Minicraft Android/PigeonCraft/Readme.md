@@ -2,8 +2,12 @@
 
 # PigeonCraft 
   
->
-  
+>You are alone in a world where you have to build your own tools and weapons to defeat the air wizard.
+
+**Unfortunately, the target SDK is an older version and will not work with newer versions of Android.**
+Either an older Android OS must be used or the target SDK version must be changed by decoding “AndroidManifest.xml”.
+
+
 ## Author 
 - **PigeonCraft** 
 
