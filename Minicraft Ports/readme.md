@@ -9,8 +9,8 @@ If you are looking for a mod that is not on the list, please check the repositor
 | ---- | ---- |
 | [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/Readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android. |
 | [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/Readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.<br>**However, there is an APK that has been edited to work with Android 12 or later.**|
-| [Minitale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/MiniTale/readme.md) | It also works with Android 12 or later. |
-| [Minicraft Android(4PDA)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-4PDA/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.**However, there is an APK that has been edited to work with Android 12 or later.** |
+| [Minitale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/MiniTale/readme.md) | **It also works with Android 12 or later.** |
+| [Minicraft Android(4PDA)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-4PDA/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.<br>**However, there is an APK that has been edited to work with Android 12 or later.** |
 | [Minicraft Android(Shawntan)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-Shawntan-Port/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android. |
 | [Minicraft Android(Miserlou)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-Miserlou-Port/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android. |
 
@@ -18,7 +18,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 | Port Name | Description |
 | ---- | ---- |
 | [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) |  |
-| [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port |
+| [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port<br>**With WPR**, it **works on Windows/Android.**|
 | [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) |  |
 | [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) |  |
 
