@@ -14,7 +14,13 @@ It does not work with the currently supported Android 12 / API 31 or later, but 
 - **Ryan** 
 
 ## Archived Versions 
+There are official and unofficial versions. 
+The official version is guaranteed to have been archived from the official distribution source, but the unofficial version is modified and cannot be guaranteed to be safe.  
+
+### Official Versions:  
 - ![Diaf - Original Apk](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/diaf/com.lols.diaf.apk) 
+
+### Unofficial Versions: 
 - ![Diaf - Modified Apk (for Android 12 / API 31+)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Ports/Minicraft%20Android/diaf/com.lols.diaf-aligned-debugSigned.apk)  
 [VirusTotal](https://www.virustotal.com/gui/file/be39f848e2c6219ff06849e228c1348392d422f63f3ef1907bb8ec83906f119d?nocache=1)  
 **Malware flag is attached due to modified Apk and debug signature.**  
