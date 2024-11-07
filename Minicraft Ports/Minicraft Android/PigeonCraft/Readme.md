@@ -44,12 +44,11 @@
 - ![PigeonCraft - 4.5.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(4.5.1).apk) 
 
 ## Links
-- [Google Play](https://play.google.com/store/apps/details?id=org.pigeoncraft.pigeoncraft)  
+- [Google Play / Dead Link](https://play.google.com/store/apps/details?id=org.pigeoncraft.pigeoncraft)  
 
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Pigeon_main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Pigeon.png)
 </detail>
 <p>
 
-<detail>
-Minicraft Mod for Android.  
+<detail>  
