@@ -7,7 +7,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 ## List of archived Android ports
 | Port Name | Description |
 | ---- | ---- |
-| [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/Readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android. |
+| [PigeonCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/Readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.<br>**Works fine with Android for Windows Subsytem.**|
 | [Diaf](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/diaf/Readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.<br>**However, there is an APK that has been edited to work with Android 12 or later.**|
 | [Minitale](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/MiniTale/readme.md) | **It also works with Android 12 or later.** |
 | [Minicraft Android(4PDA)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-4PDA/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android.<br>**However, there is an APK that has been edited to work with Android 12 or later.** |
