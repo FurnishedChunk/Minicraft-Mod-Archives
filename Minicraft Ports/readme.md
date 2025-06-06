@@ -21,6 +21,7 @@ If you are looking for a mod that is not on the list, please check the repositor
 | [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port<br>**With WPR**, it **works on Windows/Android.**|
 | [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) |  |
 | [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) |  |
+| [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port |
 
 ## List of archived Homebrews
 | Homebrew Name | Description |
