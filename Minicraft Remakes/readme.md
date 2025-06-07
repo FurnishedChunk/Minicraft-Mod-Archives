@@ -1,7 +1,7 @@
 Currently, this mod list is incomplete.  
 If you are looking for a mod that is not on the list, please check the repository [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/).  
 
-# 
+# Minicraft Remakes
 | Game Name | Description |
 | ---- | ---- |
 | [UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/UnityCraft/readme.md) |  |
