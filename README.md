@@ -13,7 +13,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 A list of archived mods for Windows, macOS, and Linux can be found [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/readme.md).  
 
 ### <summary>Android Mods and Other Porting Lists</summary> 
-Android mods and other ports (PC, Android, Windows Phone, Monogame, etc.) can be found [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md).  
+Android mods and other ports (PC, Android, Windows Phone, Monogame, GameConsole, etc.) can be found [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md).  
 
 ### <summary>List of Minicraft Remake Games</summary>  
 The list of games marked as Minicraft remakes is [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Remakes/readme.md).  
@@ -38,13 +38,13 @@ Mods that are still under development or available for download on official webs
 | <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| |
 | <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Minicraft².png" width="50%">|  |
 | <summary>[Minicraft Red](https://github.com/itayfeder/Minicraft-Red)</summary> |  |
-| <img src="" width="50%">|  |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft_red.png" width="50%">|  |
 | <summary>[Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)</summary> |  | 
-| <img src="" width="50%">|  |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
 | <summary>[AirCraft](https://github.com/TheBigEye/Aircraft)</summary> |  | 
-| <img src="" width="50%">|  |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
 | <summary>[CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft)</summary> |  | 
-| <img src="" width="50%">|  |
+| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
 
 
 <p>
