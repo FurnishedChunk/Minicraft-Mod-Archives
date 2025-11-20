@@ -9,18 +9,19 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 # Archived Mod List:
 
-**List of Mods for PC**  
+### <summary>List of Mods for PC</summary>  
 A list of archived mods for Windows, macOS, and Linux can be found [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/readme.md).  
 
-**Android Mods and Other Porting Lists**  
+### <summary>Android Mods and Other Porting Lists</summary> 
 Android mods and other ports (PC, Android, Windows Phone, Monogame, etc.) can be found [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md).  
 
-**List of Minicraft Remake Games**  
+### <summary>List of Minicraft Remake Games</summary>  
 The list of games marked as Minicraft remakes is [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Remakes/readme.md).  
 
 # Unarchived Mod List: 
-These mods are not in this archive but have been archived locally.  
-We have not yet archived any mods that can be downloaded from official or active development.  
+These mods are not included in this repository.  
+Mods that are still under development or available for download on official websites, etc., have not been archived.  
+(Some mods that were discontinued some time ago have already been archived.)  
 
 * [Unarchived Minicraft Mods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-mods)
 * [Unarchived Minicraft remakes](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-remakes)  
@@ -78,7 +79,7 @@ We have not yet archived any mods that can be downloaded from official or active
 
 
 # Minicraft mods that seem lost to our world
-
+**These mods were publicly available in the past, but they are now unavailable and cannot be found anywhere at present.**  
 
 
 ### <summary>Multiplayer Mod</summary>
