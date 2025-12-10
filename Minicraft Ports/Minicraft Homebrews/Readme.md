@@ -1,5 +1,7 @@
 
 # Minicraft Homebrew  
+List of Minicraft ports and remakes for home video game consoles.  
+  
 | Game Name | Description |
 | ---- | ---- | 
 | [Minicraft: 3DS Homebrew Edition](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Homebrews/Minicraft%203DS%20Homebrew%20Edition/readme.md) | 3DS Port |

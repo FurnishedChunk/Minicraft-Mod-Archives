@@ -1,8 +1,7 @@
 
-*For Android ports with additional elements, please check [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md).*
-
-
 ## List of archived mods  
+
+*For Android ports with additional elements, please check [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/readme.md).*  
 
 | Mod Name | Description |
 | ---- | ---- |
@@ -23,7 +22,6 @@
 | [Minicrate](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicrate/readme.md) |  |
 | [Miniloader(Texture)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Miniloader(texture)/readme.md) |  |
 | [Minitextures](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minitextures/readme.md) |  |
-| [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
 | [PirateGarden](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/PirateGarden/readme.md) |  |
 | [Texture Pack Editor](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Texture%20Pack%20Editor/readme.md) |  |
 | [Creative Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/creative_mode/readme.md) |  |
@@ -61,6 +59,6 @@
 | [CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft) | It is currently not archived as it can be downloaded from the official |
 | [Minicraft Red](https://github.com/itayfeder/Minicraft-Red) | It is currently not archived as it can be downloaded from the official |
 | [Minicraft²(Squared)](https://github.com/pelletsstarPL/Minicraft-squared) | It is currently not archived as it can be downloaded from the official |
-| []() | It is currently not archived as it can be downloaded from the official |
+| [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
 <!--| []() | |-->
 <!-- | [](/readme.md) |  | -->
