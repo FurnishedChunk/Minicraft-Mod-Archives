@@ -8,8 +8,14 @@
 - **Dejvino** 
 
 ## Archived Versions 
-- ![Alecraft - 0.12](https://github.com/Furnishedchunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Alecraft/alecraft%20v0.1.2.jar) 
-- ![Alecraft - Applet Version](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/alecraft_applet.jar)
+
+# Standalone 
+- ![Alecraft - 0.1.2](https://github.com/Furnishedchunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Alecraft/alecraft(0.1.2).jar)
+
+# Applet  
+- ![Alecraft - 0.1.0](https://github.com/Furnishedchunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Alecraft/alecraft(0.1.0).jar)
+- ![Alecraft - 0.1.1](https://github.com/Furnishedchunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Alecraft/alecraft(0.1.1).jar)
+- ![Alecraft - 0.1.2](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/alecraft_applet(0.1.2).jar)
 - ![Alecraft - OpenGL Applet version](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/alecraft-ogl_applet.jar) 
 
 ## Links
