@@ -18,33 +18,10 @@ Android mods and other ports (PC, Android, Windows Phone, Monogame, GameConsole,
 ### <summary>List of Minicraft Remake Games</summary>  
 The list of games marked as Minicraft remakes is [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Remakes/readme.md).  
 
-# Unarchived Mod List: 
+# Unarchived Mods: 
 These mods are not included in this repository.  
 Mods that are still under development or available for download on official websites, etc., have not been archived.  
 (Some mods that were discontinued some time ago have already been archived.)  
-
-* [Unarchived Minicraft Mods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-mods)
-* [Unarchived Minicraft remakes](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-remakes)  
-* [Unarchived Minicraft Homebrews](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#unarchived-minicraft-homebrew)
-* [Minicraft mods that seem lost to our world](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master?tab=readme-ov-file#minicraft-mods-that-seem-lost-to-our-world)
-
-# Unarchived Minicraft Mods  
-
-
-| Mod Name | Description |
-| ---- | ---- |
-| <summary>[Minicraft + Revived](https://github.com/MinicraftPlus/minicraft-plus-revived)</summary> | |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft%2B.png" width="50%">| [Click here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minicraft%20Plus/readme.md) for the Minicraft +(old version) archive.  |
-| <summary>[Minicraft²](https://github.com/pelletsstarPL/Minicraft-squared)</summary>| |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/Minicraft².png" width="50%">|  |
-| <summary>[Minicraft Red](https://github.com/itayfeder/Minicraft-Red)</summary> |  |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft_red.png" width="50%">|  |
-| <summary>[Mystic Craft](https://gc2k4-studio.itch.io/mysticcraft)</summary> |  | 
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
-| <summary>[AirCraft](https://github.com/TheBigEye/Aircraft)</summary> |  | 
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
-| <summary>[CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft)</summary> |  | 
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/" width="50%">|  |
 
 
 <p>
