@@ -19,41 +19,11 @@ Android mods and other ports (PC, Android, Windows Phone, Monogame, GameConsole,
 The list of games marked as Minicraft remakes is [here](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Remakes/readme.md).  
 
 # Unarchived Mods: 
-These mods are not included in this repository.  
-Mods that are still under development or available for download on official websites, etc., have not been archived.  
-(Some mods that were discontinued some time ago have already been archived.)  
+Some mods are not archived for various reasons.
 
+This includes cases where the mod is available for download on its official website or similar sites (though some long-abandoned mods may be archived), or if the mod contains viruses or vulnerabilities. 
 
-<p>
-
-
-# Unarchived Minicraft remakes
-
-
-
-| Game Name | Description |
-| ---- | ---- |
-| <summary>[Microcraft](https://github.com/jdah/microcraft)</summary> |  |
-| <img src="https://github.com/jdah/microcraft/blob/master/screen.png" width="50%">|  |
-| <summary>[UnityCraft](https://github.com/maxkratt/unitycraft/)</summary> |  |
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/unitycraft.png" width="50%"> | |
-| <summary>[Minitek](https://github.com/hollowshiroyuki/minitek)</summary> |  |
-| <img src="https://github.com/hollowshiroyuki/minitek/blob/master/screenshots/game.png" width="50%"> | |
-
-
-# Unarchived Minicraft Homebrew
-
-| Game Name | Description |
-| ---- | ---- |
-| <summary>[Minicraft DS Edition](https://github.com/ArthurCose/Minicraft-DS-Edition/)</summary> |  | 
-| <img src="https://github.com/ArthurCose/Minicraft-DS-Edition/raw/master/screenshots/crafting.png" width="50%">|  |
-| <summary>[Minicraft for GBA](https://github.com/Vulcalien/minicraft-gba)</summary> |  | 
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftforgba.png" width="50%">|  |
-| <summary><summary>[Minicraft PSP](https://github.com/konchunas/minicraft-psp)</summary> |  | 
-| <img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraftpsp.png" width="50%">|  |
-| <summary>[gbcraft](https://github.com/itIsBrando/gbcraft)</summary> |  | 
-| <img src="https://github.com/itIsBrando/gbcraft/blob/main/screenshots/house.png" width="50%">|  |
-
+Mods that have not been archived are listed at the end of each system's archive list. 
 
 # Minicraft mods that seem lost to our world
 **These mods were publicly available in the past, but they are now unavailable and cannot be found anywhere at present.**  
