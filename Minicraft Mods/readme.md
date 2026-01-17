@@ -27,6 +27,7 @@
 | [Creative Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/creative_mode/readme.md) |  |
 | [God Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/godmode/readme.md) |  |
 | [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
+| [Modified Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Modified%20Minicraft/readme.md) |  |
 | [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/ld22%20-%20resizable.jar) |  |
 | [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
 | [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Mini.World.jar) | |
