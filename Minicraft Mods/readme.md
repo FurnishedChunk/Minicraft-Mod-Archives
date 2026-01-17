@@ -9,7 +9,6 @@
 | [BetterMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/BetterMinicraft/readme.md) |  |
 | [Celeixen](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Celeixen/readme.md) |  |
 | [Creeper](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Creeper/readme.md) |  |
-| [DiyCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/DiyCraft/readme.md) | *This mod is not archived. Reason: Because it uses a vulnerable version of Log4J. |
 | [Infinitytale/Megacraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Infinitytale%20%26%20Megacraft/readme.md) |  |
 | [Magic](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Magic/readme.md) |  |
 | [MiniIsles](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/MiniIsles/readme.md) |  |
@@ -54,12 +53,21 @@
 | [Respawn](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/respawn.jar) | |
 | [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/saveandload.jar) | |
 | [Shroomycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/shroomycraft.jar) |　Texture change only　|
-| [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only |
+| [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only | 
+
+# Unarchived Minicraft Mods  
+Some mods are not archived for various reasons.
+
+This includes cases where the mod is available for download on its official website or similar sites (though some long-abandoned mods may be archived), or if the mod contains viruses or vulnerabilities.
+
+| Mod Name | Description |
+| ---- | ---- |
 | [qbitcraft](https://github.com/qbituniverse/qbitcraft) | It is currently not archived as it can be downloaded from the official |
 | [Aircraft](https://github.com/TheBigEye/Aircraft) | It is currently not archived as it can be downloaded from the official |
 | [CthulhuCraft](https://github.com/TheBigEye/Cthulhucraft) | It is currently not archived as it can be downloaded from the official |
 | [Minicraft Red](https://github.com/itayfeder/Minicraft-Red) | It is currently not archived as it can be downloaded from the official |
 | [Minicraft²(Squared)](https://github.com/pelletsstarPL/Minicraft-squared) | It is currently not archived as it can be downloaded from the official |
-| [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |
+| [Mysticcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Mysticcraft/readme.md) | It is currently not archived as it can be downloaded from the official |  
+| [DiyCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/DiyCraft/readme.md) | *This mod is not archived. Reason: Because it uses a vulnerable version of Log4J. |
 <!--| []() | |-->
 <!-- | [](/readme.md) |  | -->
