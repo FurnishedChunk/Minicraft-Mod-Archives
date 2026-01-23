@@ -8,7 +8,7 @@ Mods not found in the archive can be downloaded from the following developers' G
 
 ### The original Minicraft archive  
 You can download the original, unmodified version from here.  
--[Archived - Jar Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/minicraft.jar)  
+-[Archived - Jar Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/minicraft.zip)  
 -[Archived - Source Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/minicraft_source.zip)  
   
 -[Official - Jar Download](https://s3.amazonaws.com/ld48/ld22/minicraft.zip)  
