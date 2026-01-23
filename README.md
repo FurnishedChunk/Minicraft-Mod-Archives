@@ -6,6 +6,13 @@ For more information, see [Wikipedia](https://en.wikipedia.org/wiki/Minicraft).
 
 Mods not found in the archive can be downloaded from the following developers' Github or official sites.  
 
+### The original Minicraft archive  
+You can download the original, unmodified version from here. 
+-[Archived - Jar Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/minicraft.jar) 
+-[Archived - Source Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/minicraft_source.zip) 
+ 
+-[Official - Jar Download](https://s3.amazonaws.com/ld48/ld22/minicraft.zip) 
+-[Official - Source Download](https://s3.amazonaws.com/ld48/ld22/minicraft_source.zip)
 
 # Archived Mod List:
 

@@ -14,7 +14,7 @@
 However, it has already been archived locally.
 
 ## Links 
-- [Donwload](https://www.deviantart.com/stash/020rrmg7ha8m)
+- [Download](https://www.deviantart.com/stash/020rrmg7ha8m)
 - [Source Code](https://github.com/oscarcs/hxMinicraft)  
 
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/hx-main.png)

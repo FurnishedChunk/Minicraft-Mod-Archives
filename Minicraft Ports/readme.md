@@ -16,10 +16,10 @@ Porting list to other development languages and other devices.
   
 | Port Name | Description |
 | ---- | ---- |
-| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) |  |
+| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) | Minicraft ported to C#/Monogame. |
 | [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port<br>**With WPR**, it **works on Windows/Android.**|
-| [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) |  |
-| [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) |  |
+| [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) | Minicraft ported to Flash |
+| [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Minicraft ported to Haxe. |
 | [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port |
 
 ## List of archived Homebrews  

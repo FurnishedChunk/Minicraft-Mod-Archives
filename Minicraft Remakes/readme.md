@@ -17,6 +17,6 @@ This includes cases where the mod is available for download on its official webs
 
 | Game Name | Description |
 | ---- | ---- |
-| [UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/UnityCraft/readme.md) |  |
+| [UnityCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/UnityCraft/readme.md) | Remake Minicraft using the Unity engine. |
 | [MacroCraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/MacroCraft/readme.md) |  |
 | [Minitek](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Remakes/Minitek/readme.md) |  |
