@@ -10,29 +10,18 @@
 ## Archived Versions 
 **No archived files.**  
 **You can download them from the official distribution page.**  
-**See the Links section.**  
-However, it has already been archived locally.
-
 
 # $\textcolor{red}{\textsf{Warning}}$ 
-
-
+**Vulnerabilities have been discovered in the version of Log4J and other external libraries used by this Minicraft Mod.**
+**Not highly recommended, but if you choose to play, please do so at your own risk.**
 
 ## Links 
-- [Download](https://www.deviantart.com/stash/020rrmg7ha8m)
-- [Source Code](https://github.com/oscarcs/hxMinicraft)  
+- [Download - Moddb.com](https://www.moddb.com/games/diycraft2d)
+- [Download - itch.io](https://pamone.itch.io/diycraft2d)
+- [Download - github.com](https://github.com/pamone1977/BlocksCarft2D/)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/hx-main.png)
-![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/hx.png)
+![_main](https://camo.githubusercontent.com/852ffed29e8b418963a44de9c513ab0d19b2bbda3c85dcb830d95c68957c6ad3/68747470733a2f2f6d656469612e696e64696564622e636f6d2f696d616765732f67616d65732f312f36322f36313839382f323032302d31312d30375f3136343634382e706e67)
 </detail>
 <p>
 
 <detail>
-
-
-#  Warning
-
-It seems that the version of Log4J used by DiyCraft was previously found to be vulnerable, so I recommend that you do not run it.  
-  
-  
-(https://pamone.itch.io/diycraft2d) 
