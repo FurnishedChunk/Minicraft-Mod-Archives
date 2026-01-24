@@ -32,7 +32,7 @@ This includes cases where the mod is available for download on its official webs
 
 Mods that have not been archived are listed at the end of each system's archive list. 
 
-# Minicraft mods that seem lost to our world
+# The Lost Minicraft Mod
 **These mods were publicly available in the past, but they are now unavailable and cannot be found anywhere at present.**  
 
 
