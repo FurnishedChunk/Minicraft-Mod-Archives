@@ -14,7 +14,7 @@
 However, it has already been archived locally.
 
 
-# <span style="color: red; ">Warning</span> 
+# $\textcolor{red}{\textsf{Warning}}$ 
 
 
 
