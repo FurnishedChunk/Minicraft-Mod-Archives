@@ -12,7 +12,7 @@ This allows texture making a lot easier because you can just click off-screen, e
 - ![Download](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Texture%20Pack%20Editor/MinicraftTPEdit.zip) 
 
 ## Links
-No Links
+- ![Official Download](https://www.dropbox.com/scl/fi/5eg5ks0lnpwx2g9bnqzcl/MinicraftTPEdit.zip?rlkey=zd3fmmgp44cdyejkhsqi193to&e=3)
 
 </detail>
 <p>
