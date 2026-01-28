@@ -8,7 +8,7 @@
 - **Dezlad** 
 
 ## Archived Versions 
-- ![Godmode.jar](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Godmode/Godmode.jar) 
+- ![Godmode.jar](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/godmode/godmode.jar) 
 
 ## Links
 No Links  
