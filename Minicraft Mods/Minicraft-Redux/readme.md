@@ -15,7 +15,7 @@
 ## Links 
 - [Source Code](https://github.com/ps5fanohyeah/minicraft-redux)  
 
-![Minicraft-Redux_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/_main.png)
+![Minicraft-Redux_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Minicraft-Redux_main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/Minicraft-Redux.png)
 </detail>
 <p>

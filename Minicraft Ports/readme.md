@@ -17,7 +17,7 @@ Porting list to other development languages and other devices.
 | Port Name | Description |
 | ---- | ---- |
 | [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) | Minicraft ported to C#/Monogame. |
-| [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/miniventure-sharp/readme.md) | Porting Miniventure (Minicraft) to C#. |
+| [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Miniventure-Sharp/readme.md) | Porting Miniventure (Minicraft) to C#. |
 | [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port<br>**With WPR**, it **works on Windows/Android.**|
 | [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) | Minicraft ported to Flash |
 | [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Minicraft ported to Haxe. |
