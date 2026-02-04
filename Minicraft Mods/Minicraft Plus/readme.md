@@ -20,7 +20,6 @@
 - ![Minicraft Plus - 1.7](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Plus/Minicraft%20Plus%201.7.jar) 
 - ![Minicraft Plus - dungeon_preview](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Plus/dungeon_preview.jar) 
 - ![Minicraft Plus - 1.8](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Plus/minicraft%2B_1.8.jar) 
-- ![Minicraft Plus - InfinityWorld_DEV](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Plus/Minicraft-InfinityWorld_DEV.jar) 
 - ![Minicraft Plus - 1.6-1.7 Source Code](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Plus/minicraft%2B1.6-1.7src.zip) 
 
 

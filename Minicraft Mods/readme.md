@@ -27,6 +27,7 @@
 | [God Mode](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/godmode/readme.md) |  |
 | [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
 | [Modified Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Modified%20Minicraft/readme.md) |  |
+| [Minicraft Redux](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft-Redux/readme.md) | A mod that adds features based on Miniventure Sharp.<br>For [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Miniventure-sharp/readme.md), please refer to the port list. |
 | [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/ld22%20-%20resizable.jar) |  |
 | [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
 | [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Mini.World.jar) | |
