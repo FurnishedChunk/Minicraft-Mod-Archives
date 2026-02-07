@@ -30,7 +30,7 @@ God Mode has two different Mod.
 - [Website(Andrew Canis)](https://acanis.github.io/Minicraft-God-Mode/)  
 - [Source Code(Andrew Canis)](https://github.com/acanis/Minicraft-God-Mode)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraft_main.png) 
+![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minicraft_main.png) 
 </detail>
 <p>
 
