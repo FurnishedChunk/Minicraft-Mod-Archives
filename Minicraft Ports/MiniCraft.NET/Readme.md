@@ -3,16 +3,14 @@
 # Minicraft.NET  
 
 >Minicraft ported to C#/Monogame.  
->
->The source code can be downloaded from the developer's GitHub.
->Here is an archive of the executable file built by me previously.
->
->* Minicraft.NET repository is [here](https://github.com/xposure/minicraft.net)
 
 ## Author 
 - **xposure**
 
 ## Archived Versions 
+>The source code can be downloaded from the developer's GitHub.
+>Here is an archive of the executable file built by me previously.
+
 - ![Pre-build Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Ports/MiniCraft.NET/MiniCraft.NET-build.zip)  
 
 ## Links

@@ -8,9 +8,11 @@
 - **PS8FanOhYeah** 
 
 ## Archived Versions 
-**No archived files.**  
-**You can download them from the official distribution page.**  
-**See the Links section.**
+>The source code can be downloaded from the developer's GitHub.
+>Here is an archive of the executable file built by me previously. 
+
+- ![Pre-build Minicraft-Redux](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Minicraft-Redux/Minicraft-Redux_Prebuild.7z)
+
 
 ## Links 
 - [Source Code](https://github.com/ps5fanohyeah/minicraft-redux)  
