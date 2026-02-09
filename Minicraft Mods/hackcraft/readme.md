@@ -14,7 +14,7 @@
 ## Links
 No Links  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/minicraft_archives/readme_shot/minicraft-main.png)
+![_main](https://raw.githubusercontent.com/FurnishedChunk/Minicraft-Mod-Archives/refs/heads/master/readme_shot/minicraft-main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/minicraft_archives/readme_shot/Hack.png)
 </detail>
 <p>
