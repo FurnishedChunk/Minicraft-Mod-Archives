@@ -5,7 +5,7 @@
 
 | Mod Name | Description |
 | ---- | ---- |
-| [Alecraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/readme.md) |  |
+| [Alecraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Alecraft/readme.md) | Let's put Minicraft and Dwarf Fortress together and see what happens! |
 | [BetterMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/BetterMinicraft/readme.md) |  |
 | [Celeixen](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Celeixen/readme.md) |  |
 | [Creeper](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Creeper/readme.md) |  |
