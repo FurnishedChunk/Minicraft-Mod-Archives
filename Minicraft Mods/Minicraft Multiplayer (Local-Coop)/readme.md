@@ -7,13 +7,17 @@
 ## Author 
 - **MK2k** 
 
-## Archived Versions 
+## Archived Versions
+- ![Minicraft Multiplayer - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.0.jar)  
 - ![Minicraft Multiplayer - 1.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.1.jar) 
 - ![Minicraft Multiplayer - Source Code](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.1%20Src.zip) 
 
 ## Links
 - [Website](https://www.mk2k.net/serendipity/index.php?/archives/31-Minicraft-Multiplayer-Mod-+-Trainer.html)  
-- [Official Download/Source Code](https://www.mk2k.net/serendipity/index.php?/archives/31-Minicraft-Multiplayer-Mod-+-Trainer.html)  
+- [Official Download/Source Code](https://www.mk2k.net/serendipity/index.php?/archives/31-Minicraft-Multiplayer-Mod-+-Trainer.html) 
+
+- [Official Download(Direct) - 1.0](http://mk2k.net/releases/java/minicraft_multiplayer_1.0.jar) 
+- [Official Download(Direct) - 1.1](http://mk2k.net/releases/java/minicraft_multiplayer_1.1.jar) 
 
 ![minimplocal_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minimplocal_main.png)
 ![minimplocal](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/readme_shot/minimplocal.png)
