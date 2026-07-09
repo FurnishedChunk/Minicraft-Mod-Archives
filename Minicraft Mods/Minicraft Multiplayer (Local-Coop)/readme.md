@@ -8,7 +8,7 @@
 - **MK2k** 
 
 ## Archived Versions
-- ![Minicraft Multiplayer - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.0.jar)  
+- ![Minicraft Multiplayer - 1.0](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/minicraft_multiplayer_1.0.jar)  
 - ![Minicraft Multiplayer - 1.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.1.jar) 
 - ![Minicraft Multiplayer - Source Code](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Mods/Minicraft%20Multiplayer%20(Local-Coop)/Minicraft%20Multiplayer%20%2B%20Trainer%201.1%20Src.zip) 
 
