@@ -28,7 +28,7 @@
 | [Hackcraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/hackcraft/readme.md) |  |
 | [Modified Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Modified%20Minicraft/readme.md) |  |
 | [Minicraft Redux](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Minicraft-Redux/readme.md) | A mod that adds features based on Miniventure Sharp.<br>For [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Miniventure-Sharp/readme.md), please refer to the port list. |
-| [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Resizable/readme.md) |  |
+| [Resizable](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Resizable/readme.md) |  |
 | [Macrocraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Macrocraft(1.0).jar) |  |
 | [MiniWorld](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Mini.World.jar) | |
 | [MinicraftFMX](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/MiniCraftFMX.zip) | |
@@ -52,7 +52,7 @@
 | [MiniMods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minimods_v1.0.0.jar) | |
 | [Minicraft Mob Overload](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/moboverload.jar) | |
 | [Respawn](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/respawn.jar) | |
-| [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/SaveandLoad/readme.md) | |
+| [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/SaveandLoad/readme.md) | |
 | [Shroomycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/shroomycraft.jar) |　Texture change only　|
 | [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only | 
 
