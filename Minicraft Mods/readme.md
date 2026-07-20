@@ -53,8 +53,8 @@
 | [Minicraft Mob Overload](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/moboverload.jar) | |
 | [Respawn](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/respawn.jar) | |
 | [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/SaveandLoad/readme.md) | |
-| [Shroomycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/shroomycraft.jar) |　Texture change only　|
-| [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/Happycraft%201.1.jar) | Texture change only | 
+| [Shroomycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Shroomycraft/readme.md) |　Texture change only　|
+| [Happycraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Happycraft/readme.md) | Texture change only | 
 
 # Unarchived Minicraft Mods  
 Some mods are not archived for various reasons.
