@@ -13,7 +13,8 @@
 **See the Links section.**
 
 ## Links
-- [Download/Source Code](https://gitlab.com/zielony12/minicraft-j2me/-/tree/main)  
+- [Download/Source Code - Github](https://github.com/zielony12/minicraft-j2me)  
+- [Source Code - Gitlab](https://gitlab.com/zielony12/minicraft-j2me/-/tree/main) 
 
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/J2ME_main.png)
 ![](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/J2ME.png)
