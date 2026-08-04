@@ -27,13 +27,13 @@
 - [Website](https://konchunas.github.io/minicraft-psp/)  
 - [Source Code](https://github.com/konchunas/minicraft-psp)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraftpsp.png)
+<img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraftpsp.png" width="50%"> 
 
 *PSP-O (fork) Release*  
 - [Website](https://minicraft-psp.neocities.org/)  
 - [Play in Browser](https://koutsie.github.io/minicraft-psp-site-files/)  
 
-![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraftpspom.png)
+<img src="https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/minicraftpspom.png" width="50%"> 
 </detail>
 <p>
 
