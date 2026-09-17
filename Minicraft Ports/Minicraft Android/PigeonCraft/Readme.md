@@ -4,14 +4,19 @@
   
 >You are alone in a world where you have to build your own tools and weapons to defeat the air wizard. 
 
-**Unfortunately, the target SDK is an older version and will not work with newer versions of Android.**  
-
 **You can play using a smartphone with an older Android OS or using Android for Windows Subsytem.**  
+It does not work with the currently supported Android 12 / API 31 or later, but I have uploaded an APK that has been edited to work.
+**However, use at your own risk.**
+
 
 ## Author 
 - **PigeonCraft** 
 
 ## Archived Versions 
+There are official and unofficial versions. 
+The official version is guaranteed to have been archived from the official distribution source, but the unofficial version is modified and cannot be guaranteed to be safe. 
+
+### Official Versions: 
 - ![PigeonCraft - 1.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(1.1).apk) 
 - ![PigeonCraft - 1.1_](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(1.1_).apk) 
 - ![PigeonCraft - 2.0a_07](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(2.0a_07).apk) 
@@ -42,6 +47,12 @@
 - ![PigeonCraft - 4.4](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(4.4).apk) 
 - ![PigeonCraft - 4.5](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(4.5).apk) 
 - ![PigeonCraft - 4.5.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(4.5.1).apk) 
+
+### Unofficial Versions:
+- ![PigeonCraft - 4.5.1 - Modified Apk (for Android 12 / API 31+)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft-aligned-debugSigned.apk) 
+**Malware flag is attached due to modified Apk and debug signature.**  
+**[Advanced ApkTool](https://xdaforums.com/t/tool-advanced-apktool-v4-2-0-windows-10-02-2016.2639400/) was used to decompile and compile the APK.**
+**Signatures were used [Uber apk signer](https://github.com/patrickfav/uber-apk-signer).** 
 
 ## Links
 - [Google Play / Dead Link](https://play.google.com/store/apps/details?id=org.pigeoncraft.pigeoncraft)  
