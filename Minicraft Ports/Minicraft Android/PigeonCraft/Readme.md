@@ -49,7 +49,10 @@ The official version is guaranteed to have been archived from the official distr
 - ![PigeonCraft - 4.5.1](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft(4.5.1).apk) 
 
 ### Unofficial Versions:
-- ![PigeonCraft - 4.5.1 - Modified Apk (for Android 12 / API 31+)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft-aligned-debugSigned.apk) 
+- ![PigeonCraft - 4.5.1 - Modified Apk (for Android 12 / API 31+)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/Minicraft%20Ports/Minicraft%20Android/PigeonCraft/org.pigeoncraft.pigeoncraft-aligned-debugSigned.apk)  
+
+Since simply upgrading the SDK version did not resolve the issue of the app running at a frame rate of 0, the source code has been modified to improve the frame rate, fix crashes, and ensure that the menu opens when the Android OS back button is pressed. 
+
 **Malware flag is attached due to modified Apk and debug signature.**  
 **[Advanced ApkTool](https://xdaforums.com/t/tool-advanced-apktool-v4-2-0-windows-10-02-2016.2639400/) was used to decompile and compile the APK.**
 **Signatures were used [Uber apk signer](https://github.com/patrickfav/uber-apk-signer).** 
