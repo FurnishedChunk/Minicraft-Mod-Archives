@@ -23,6 +23,7 @@ Porting list to other development languages and other devices.
 | [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) | Minicraft ported to Flash |
 | [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Minicraft ported to Haxe. |
 | [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port |
+| [Minicraft Rust](https://github.com/Zaxaerith/Minicraft-Rust) | A project to rebuild “Minicraft Puls Revived 2.2.4” in Rust | 
 
 ## List of archived Homebrew/Port 
 List of Minicraft ports and remakes for home video game consoles.  
