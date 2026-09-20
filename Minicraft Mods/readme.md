@@ -49,7 +49,7 @@
 | [Minicraft Cursed Inv.](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftci.jar) | |
 | [Minicraft Mod](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftmod.jar) | |
 | [Minicraft R](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/minicraftr1.3.jar) | |
-| [MiniMods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/MiniMods/readme.md) | |
+| [MiniMods](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Mods/Minimods/readme.md) | |
 | [Minicraft Mob Overload](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Mods/moboverload.jar) | |
 | [Respawn](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/Respawn/readme.md) | |
 | [Save and Load](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Mods/SaveandLoad/readme.md) | |
