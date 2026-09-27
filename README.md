@@ -1,10 +1,17 @@
 
+# The Minicraft Mod Archive
+
+### Lately, when sort GitHub by most recent commits, three suspicious Minicraft repositories appear at the top. Since they look shady, please make sure to download from a trusted source.
+
+
 This repository contains an archive of community-developed mods that have been released in the last few decades since Minicraft/Minitale was released.  
   
 Minicraft/Minitale was published at Ludum Dare 22 in 2011 by Markus Persson, the original author of Minecraft.  
 For more information, see [Wikipedia](https://en.wikipedia.org/wiki/Minicraft).  
 
 Mods not found in the archive can be downloaded from the following developers' Github or official sites.  
+
+
 
 ### The original Minicraft archive  
 You can download the original, unmodified version from here.  
@@ -36,16 +43,16 @@ Mods that have not been archived are listed at the end of each system's archive 
 **These mods were publicly available in the past, but they are now unavailable and cannot be found anywhere at present.**  
 
 
-### <summary>Multiplayer Mod</summary>
-(https://www.minecraftforum.net/forums/off-topic/general-gaming/451983-work-in-progress-min-i-craft-multiplayer-pre-alpha)
+### <summary>[Multiplayer Mod]</summary>
+-(https://www.minecraftforum.net/forums/off-topic/general-gaming/451983-work-in-progress-min-i-craft-multiplayer-pre-alpha)
 
 </detail>
 <p>
 
 <detail>
 
-### <summary>Zombie Mod</summary>
-(http://www.minecraftforum.net/forums/off-topic/general-gaming/452019-i-3-zombies-minicraft-mod)
+### <summary>[Zombie Mod]</summary>
+-(http://www.minecraftforum.net/forums/off-topic/general-gaming/452019-i-3-zombies-minicraft-mod)
   
 </detail>
 <p>
