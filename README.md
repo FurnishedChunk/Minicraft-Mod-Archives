@@ -1,9 +1,6 @@
 
 # The Minicraft Mod Archive
 
-### Lately, when sort GitHub by most recent commits, three suspicious Minicraft repositories appear at the top. Since they look shady, please make sure to download from a trusted source.
-
-
 This repository contains an archive of community-developed mods that have been released in the last few decades since Minicraft/Minitale was released.  
   
 Minicraft/Minitale was published at Ludum Dare 22 in 2011 by Markus Persson, the original author of Minecraft.  
