@@ -24,6 +24,8 @@ Porting list to other development languages and other devices.
 | [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Minicraft ported to Haxe. |
 | [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port |
 | [Minicraft Rust](https://github.com/Zaxaerith/Minicraft-Rust) | A project to rebuild “Minicraft Puls Revived 2.2.4” in Rust | 
+| [Minicraft Delphi Port](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Delphi/readme.md) | Delphi Port of Minicraft |
+| [Miniventure GML](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Miniventure%20GML/readme.md) | GameMaker Port of Minicraft |
 
 ## List of archived Homebrew/Port 
 List of Minicraft ports and remakes for home video game consoles.  
