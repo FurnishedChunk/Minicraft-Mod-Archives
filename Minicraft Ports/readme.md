@@ -12,20 +12,20 @@ Mods included.
 | [Minicraft Android(Miserlou)](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Minicraft%20Android/Minicraft-Miserlou-Port/readme.md) | Unfortunately, the target SDK is an older version and will not work with newer versions of Android. |
 
 ## List of archived ports  
-Porting list to other development languages and other devices.  
+List of Portings of Minicraft to Other Programming Languages and Devices. 
   
 | Port Name | Description |
 | ---- | ---- |
-| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) | Minicraft ported to C#/Monogame. |
-| [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Miniventure-Sharp/readme.md) | Porting Miniventure (Minicraft) to C#. |
-| [Minicraft SDL](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft-SDL/readme.md) | C/SDL Port |
-| [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port<br>**With WPR**, it **works on Windows/Android.**|
-| [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) | Minicraft ported to Flash |
-| [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Minicraft ported to Haxe. |
-| [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port |
+| [Minicraft.NET](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/MiniCraft.NET/Readme.md) | C#/Monogame Port of Minicraft |
+| [Miniventure Sharp](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/tree/master/Minicraft%20Ports/Miniventure-Sharp/readme.md) | C# Port of Minicraft(Miniventure) |
+| [Minicraft SDL](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft-SDL/readme.md) | C/SDL Port of Minicraft |
+| [Minicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Windows%20Phone/readme.md) | Windows Phone Port of Minicraft<br>**With WPR**, it **works on Windows/Android.**|
+| [Minicraft Flash](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Minicraft%20Flash/readme.md) | Flash Port of Minicraft |
+| [hxMinicraft](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/hxMinicraft/readme.md) | Haxe Port of Minicraft |
+| [minicraft-j2me](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/minicraft-j2me/readme.md) | J2ME Port of Minicraft |
 | [Minicraft Rust](https://github.com/Zaxaerith/Minicraft-Rust) | A project to rebuild “Minicraft Puls Revived 2.2.4” in Rust | 
 | [Minicraft Delphi Port](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Delphi/readme.md) | Delphi Port of Minicraft |
-| [Miniventure GML](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Miniventure%20GML/readme.md) | GameMaker Port of Minicraft |
+| [Miniventure GML](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/blob/master/Minicraft%20Ports/Miniventure%20GML/readme.md) | GameMaker Port of Minicraft(Miniventure) |
 
 ## List of archived Homebrew/Port 
 List of Minicraft ports and remakes for home video game consoles.  
