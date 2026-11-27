@@ -12,7 +12,7 @@
 **You can download them from the official distribution page.**  
 **See the Links section.**  
 
-## Links
+## Links 
 - [Source Code](https://github.com/dolumchei/miniventure-gml)  
 
 ![_main](https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/master/readme_shot/gml_main.png)
